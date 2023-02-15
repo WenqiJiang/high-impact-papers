@@ -1,0 +1,80 @@
+Paper: TASO: optimizing deep learning computation with automatic generation of graph substitutions.	Year: 2019	Citation: 156	Citation per year: 39.0
+Paper: SplitFS: reducing software overhead in file systems for persistent memory.	Year: 2019	Citation: 156	Citation per year: 39.0
+Paper: Recipe: converting concurrent DRAM indexes to persistent-memory indexes.	Year: 2019	Citation: 134	Citation per year: 33.5
+Paper: PipeDream: generalized pipeline parallelism for DNN training.	Year: 2019	Citation: 400	Citation per year: 100.0
+Paper: A generic communication scheduler for distributed DNN training acceleration.	Year: 2019	Citation: 230	Citation per year: 57.5
+Paper: Prochlo: Strong Privacy for Analytics in the Crowd.	Year: 2017	Citation: 339	Citation per year: 56.5
+Paper: Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms.	Year: 2017	Citation: 464	Citation per year: 77.33333333333333
+Paper: Algorand: Scaling Byzantine Agreements for Cryptocurrencies.	Year: 2017	Citation: 1370	Citation per year: 228.33333333333334
+Paper: NetCache: Balancing Key-Value Stores with Fast In-Network Caching.	Year: 2017	Citation: 451	Citation per year: 75.16666666666667
+Paper: Strata: A Cross Media File System.	Year: 2017	Citation: 193	Citation per year: 32.166666666666664
+Paper: KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC.	Year: 2017	Citation: 225	Citation per year: 37.5
+Paper: My VM is Lighter (and Safer) than your Container.	Year: 2017	Citation: 269	Citation per year: 44.833333333333336
+Paper: DeepXplore: Automated Whitebox Testing of Deep Learning Systems.	Year: 2017	Citation: 1130	Citation per year: 188.33333333333334
+Paper: PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees.	Year: 2017	Citation: 244	Citation per year: 40.666666666666664
+Paper: Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, October 28-31, 2017	Year: 2017	Citation: 244	Citation per year: 40.666666666666664
+Paper: Using Crash Hoare logic for certifying the FSCQ file system.	Year: 2015	Citation: 277	Citation per year: 34.625
+Paper: No compromises: distributed transactions with consistency, availability, and performance.	Year: 2015	Citation: 312	Citation per year: 39.0
+Paper: IronFleet: proving practical distributed systems correct.	Year: 2015	Citation: 361	Citation per year: 45.125
+Paper: Vuvuzela: scalable private messaging resistant to traffic analysis.	Year: 2015	Citation: 299	Citation per year: 37.375
+Paper: Pivot tracing: dynamic causal monitoring for distributed systems.	Year: 2015	Citation: 241	Citation per year: 30.125
+Paper: E2: a framework for NFV applications.	Year: 2015	Citation: 367	Citation per year: 45.875
+Paper: Fast in-memory transaction processing using RDMA and HTM.	Year: 2015	Citation: 286	Citation per year: 35.75
+Paper: Everything you always wanted to know about synchronization but were afraid to ask.	Year: 2013	Citation: 300	Citation per year: 30.0
+Paper: There is more consensus in Egalitarian parliaments.	Year: 2013	Citation: 423	Citation per year: 42.3
+Paper: Naiad: a timely dataflow system.	Year: 2013	Citation: 993	Citation per year: 99.3
+Paper: A lightweight infrastructure for graph analytics.	Year: 2013	Citation: 617	Citation per year: 61.7
+Paper: Sparrow: distributed, low latency scheduling.	Year: 2013	Citation: 735	Citation per year: 73.5
+Paper: X-Stream: edge-centric graph processing using streaming partitions.	Year: 2013	Citation: 777	Citation per year: 77.7
+Paper: Consistency-based service level agreements for cloud storage.	Year: 2013	Citation: 320	Citation per year: 32.0
+Paper: Speedy transactions in multicore in-memory databases.	Year: 2013	Citation: 444	Citation per year: 44.4
+Paper: SPANStore: cost-effective geo-replicated storage spanning multiple cloud services.	Year: 2013	Citation: 315	Citation per year: 31.5
+Paper: Discretized streams: fault-tolerant streaming computation at scale.	Year: 2013	Citation: 1330	Citation per year: 133.0
+Paper: Windows Azure Storage: a highly available cloud storage service with strong consistency.	Year: 2011	Citation: 939	Citation per year: 78.25
+Paper: SILT: a memory-efficient, high-performance key-value store.	Year: 2011	Citation: 521	Citation per year: 43.416666666666664
+Paper: Don&apos;t settle for eventual: scalable causal consistency for wide-area storage with COPS.	Year: 2011	Citation: 816	Citation per year: 68.0
+Paper: Fast crash recovery in RAMCloud.	Year: 2011	Citation: 471	Citation per year: 39.25
+Paper: CryptDB: protecting confidentiality with encrypted query processing.	Year: 2011	Citation: 1628	Citation per year: 135.66666666666666
+Paper: Transactional storage for geo-replicated systems.	Year: 2011	Citation: 491	Citation per year: 40.916666666666664
+Paper: CloudVisor: retrofitting protection of virtual machines in multi-tenant cloud with nested virtualization.	Year: 2011	Citation: 530	Citation per year: 44.166666666666664
+Paper: FAWN: a fast array of wimpy nodes.	Year: 2009	Citation: 778	Citation per year: 55.57142857142857
+Paper: The multikernel: a new OS architecture for scalable multicore systems.	Year: 2009	Citation: 1205	Citation per year: 86.07142857142857
+Paper: Better I/O through byte-addressable, persistent memory.	Year: 2009	Citation: 1153	Citation per year: 82.35714285714286
+Paper: RouteBricks: exploiting parallelism to scale software routers.	Year: 2009	Citation: 803	Citation per year: 57.357142857142854
+Paper: Quincy: fair scheduling for distributed computing clusters.	Year: 2009	Citation: 1159	Citation per year: 82.78571428571429
+Paper: seL4: formal verification of an OS kernel.	Year: 2009	Citation: 2539	Citation per year: 181.35714285714286
+Paper: Automatically patching errors in deployed software.	Year: 2009	Citation: 494	Citation per year: 35.285714285714285
+Paper: Detecting large-scale system problems by mining console logs.	Year: 2009	Citation: 1138	Citation per year: 81.28571428571429
+Paper: Proceedings of the 22nd ACM Symposium on Operating Systems Principles 2009, SOSP 2009, Big Sky, Montana, USA, October 11-14, 2009	Year: 2009	Citation: 1205	Citation per year: 86.07142857142857
+Paper: PeerReview: practical accountability for distributed systems.	Year: 2007	Citation: 521	Citation per year: 32.5625
+Paper: Zyzzyva: speculative byzantine fault tolerance.	Year: 2007	Citation: 865	Citation per year: 54.0625
+Paper: Information flow control for standard OS abstractions.	Year: 2007	Citation: 607	Citation per year: 37.9375
+Paper: VirtualPower: coordinated power management in virtualized enterprise systems.	Year: 2007	Citation: 943	Citation per year: 58.9375
+Paper: SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes.	Year: 2007	Citation: 950	Citation per year: 59.375
+Paper: Fault-scalable Byzantine fault-tolerant services.	Year: 2005	Citation: 516	Citation per year: 28.666666666666668
+Paper: Vigilante: end-to-end containment of internet worms.	Year: 2005	Citation: 952	Citation per year: 52.888888888888886
+Paper: Implementing declarative overlays.	Year: 2005	Citation: 509	Citation per year: 28.27777777777778
+Paper: Pioneer: verifying code integrity and enforcing untampered code execution on legacy systems.	Year: 2005	Citation: 528	Citation per year: 29.333333333333332
+Paper: Scalability, fidelity, and containment in the potemkin virtual honeyfarm.	Year: 2005	Citation: 512	Citation per year: 28.444444444444443
+Paper: RaceTrack: efficient detection of data race conditions via adaptive tracking.	Year: 2005	Citation: 513	Citation per year: 28.5
+Paper: Performance debugging for distributed systems of black boxes.	Year: 2003	Citation: 907	Citation per year: 45.35
+Paper: Xen and the art of virtualization.	Year: 2003	Citation: 10113	Citation per year: 505.65
+Paper: SplitStream: high-bandwidth multicast in cooperative environments.	Year: 2003	Citation: 2209	Citation per year: 110.45
+Paper: RacerX: effective, static detection of race conditions and deadlocks.	Year: 2003	Citation: 1047	Citation per year: 52.35
+Paper: Terra: a virtual machine-based platform for trusted computing.	Year: 2003	Citation: 1673	Citation per year: 83.65
+Paper: The Google file system.	Year: 2003	Citation: 9980	Citation per year: 499.0
+Paper: Measurement, modeling, and analysis of a peer-to-peer file-sharing workload.	Year: 2003	Citation: 1354	Citation per year: 67.7
+Paper: Backtracking intrusions.	Year: 2003	Citation: 581	Citation per year: 29.05
+Paper: Bullet: high bandwidth data dissemination using an overlay mesh.	Year: 2003	Citation: 929	Citation per year: 46.45
+Paper: Improving the reliability of commodity operating systems.	Year: 2003	Citation: 550	Citation per year: 27.5
+Paper: Energy-efficient soft real-time CPU scheduling for mobile multimedia systems.	Year: 2003	Citation: 582	Citation per year: 29.1
+Paper: Resilient Overlay Networks.	Year: 2001	Citation: 2944	Citation per year: 133.8181818181818
+Paper: Managing Energy and Server Resources in Hosting Centres.	Year: 2001	Citation: 1861	Citation per year: 84.5909090909091
+Paper: An Empirical Study of Operating System Errors.	Year: 2001	Citation: 1096	Citation per year: 49.81818181818182
+Paper: Wide-Area Cooperative Storage with CFS.	Year: 2001	Citation: 2506	Citation per year: 113.9090909090909
+Paper: Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code.	Year: 2001	Citation: 1055	Citation per year: 47.95454545454545
+Paper: Building Efficient Wireless Sensor Networks with Low-Level Naming.	Year: 2001	Citation: 1032	Citation per year: 46.90909090909091
+Paper: A Low-Bandwidth Network File System.	Year: 2001	Citation: 1525	Citation per year: 69.31818181818181
+Paper: Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems.	Year: 2001	Citation: 1811	Citation per year: 82.31818181818181
+Paper: Storage Management and Caching in PAST, A Large-scale, Persistent Peer-to-peer Storage Utility.	Year: 2001	Citation: 2759	Citation per year: 125.4090909090909
+Paper: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services.	Year: 2001	Citation: 1422	Citation per year: 64.63636363636364

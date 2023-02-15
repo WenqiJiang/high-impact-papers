@@ -1,0 +1,88 @@
+Paper: Oort: Efficient Federated Learning via Guided Participant Selection.	Year: 2021	Citation: 107	Citation per year: 53.5
+Paper: GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs.	Year: 2021	Citation: 61	Citation per year: 30.5
+Paper: A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters.	Year: 2020	Citation: 131	Citation per year: 43.666666666666664
+Paper: Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads.	Year: 2020	Citation: 94	Citation per year: 31.333333333333332
+Paper: FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices.	Year: 2020	Citation: 94	Citation per year: 31.333333333333332
+Paper: A large scale analysis of hundreds of in-memory cache clusters at Twitter.	Year: 2020	Citation: 99	Citation per year: 33.0
+Paper: Ansor: Generating High-Performance Tensor Programs for Deep Learning.	Year: 2020	Citation: 159	Citation per year: 53.0
+Paper: TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.	Year: 2018	Citation: 1080	Citation per year: 216.0
+Paper: Focus: Querying Large Video Datasets with Low Latency and Low Cost.	Year: 2018	Citation: 250	Citation per year: 50.0
+Paper: Pocket: Elastic Ephemeral Storage for Serverless Analytics.	Year: 2018	Citation: 243	Citation per year: 48.6
+Paper: Ray: A Distributed Framework for Emerging AI Applications.	Year: 2018	Citation: 840	Citation per year: 168.0
+Paper: LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation.	Year: 2018	Citation: 256	Citation per year: 51.2
+Paper: Gandiva: Introspective Cluster Scheduling for Deep Learning.	Year: 2018	Citation: 342	Citation per year: 68.4
+Paper: Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory.	Year: 2018	Citation: 160	Citation per year: 32.0
+Paper: TensorFlow: A System for Large-Scale Machine Learning.	Year: 2016	Citation: 19946	Citation per year: 2849.4285714285716
+Paper: SCONE: Secure Linux Containers with Intel SGX.	Year: 2016	Citation: 862	Citation per year: 123.14285714285714
+Paper: Efficient Network Reachability Analysis Using a Succinct Control Plane Representation.	Year: 2016	Citation: 235	Citation per year: 33.57142857142857
+Paper: Network Requirements for Resource Disaggregation.	Year: 2016	Citation: 331	Citation per year: 47.285714285714285
+Paper: Firmament: Fast, Centralized Cluster Scheduling at Scale.	Year: 2016	Citation: 233	Citation per year: 33.285714285714285
+Paper: GRAPHENE: Packing and Dependency-Aware Scheduling for Data-Parallel Clusters.	Year: 2016	Citation: 213	Citation per year: 30.428571428571427
+Paper: CertiKOS: An Extensible Architecture for Building Certified Concurrent OS Kernels.	Year: 2016	Citation: 237	Citation per year: 33.857142857142854
+Paper: Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data.	Year: 2016	Citation: 343	Citation per year: 49.0
+Paper: Morpheus: Towards Automated SLOs for Enterprise Clusters.	Year: 2016	Citation: 276	Citation per year: 39.42857142857143
+Paper: FaSST: Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs.	Year: 2016	Citation: 323	Citation per year: 46.142857142857146
+Paper: NetBricks: Taking the V out of NFV.	Year: 2016	Citation: 298	Citation per year: 42.57142857142857
+Paper: Gemini: A Computation-Centric Distributed Graph Processing System.	Year: 2016	Citation: 372	Citation per year: 53.142857142857146
+Paper: Shielding Applications from an Untrusted Cloud with Haven.	Year: 2014	Citation: 936	Citation per year: 104.0
+Paper: IX: A Protected Dataplane Operating System for High Throughput and Low Latency.	Year: 2014	Citation: 472	Citation per year: 52.44444444444444
+Paper: Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing.	Year: 2014	Citation: 438	Citation per year: 48.666666666666664
+Paper: Project Adam: Building an Efficient and Scalable Deep Learning Training System.	Year: 2014	Citation: 876	Citation per year: 97.33333333333333
+Paper: The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services.	Year: 2014	Citation: 273	Citation per year: 30.333333333333332
+Paper: GraphX: Graph Processing in a Distributed Dataflow Framework.	Year: 2014	Citation: 1354	Citation per year: 150.44444444444446
+Paper: Code-Pointer Integrity.	Year: 2014	Citation: 578	Citation per year: 64.22222222222223
+Paper: Scaling Distributed Machine Learning with the Parameter Server.	Year: 2014	Citation: 1817	Citation per year: 201.88888888888889
+Paper: Arrakis: The Operating System is the Control Plane.	Year: 2014	Citation: 491	Citation per year: 54.55555555555556
+Paper: PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs.	Year: 2012	Citation: 2231	Citation per year: 202.8181818181818
+Paper: COMET: Code Offload by Migrating Execution Transparently.	Year: 2012	Citation: 522	Citation per year: 47.45454545454545
+Paper: GraphChi: Large-Scale Graph Computation on Just a PC.	Year: 2012	Citation: 1366	Citation per year: 124.18181818181819
+Paper: Making Geo-Replicated Systems Fast as Possible, Consistent when Necessary.	Year: 2012	Citation: 389	Citation per year: 35.36363636363637
+Paper: Performance Isolation and Fairness for Multi-Tenant Cloud Storage.	Year: 2012	Citation: 357	Citation per year: 32.45454545454545
+Paper: Reining in the Outliers in Map-Reduce Clusters using Mantri.	Year: 2010	Citation: 961	Citation per year: 73.92307692307692
+Paper: The Turtles Project: Design and Implementation of Nested Virtualization.	Year: 2010	Citation: 477	Citation per year: 36.69230769230769
+Paper: An Analysis of Linux Scalability to Many Cores.	Year: 2010	Citation: 537	Citation per year: 41.30769230769231
+Paper: TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones.	Year: 2010	Citation: 4689	Citation per year: 360.6923076923077
+Paper: Availability in Globally Distributed Storage Systems.	Year: 2010	Citation: 755	Citation per year: 58.07692307692308
+Paper: Onix: A Distributed Control Platform for Large-scale Production Networks.	Year: 2010	Citation: 1981	Citation per year: 152.3846153846154
+Paper: Depot: Cloud Storage with Minimal Trust.	Year: 2010	Citation: 403	Citation per year: 31.0
+Paper: Large-scale Incremental Processing Using Distributed Transactions and Notifications.	Year: 2010	Citation: 642	Citation per year: 49.38461538461539
+Paper: Can the Production Network Be the Testbed?	Year: 2010	Citation: 682	Citation per year: 52.46153846153846
+Paper: Corey: An Operating System for Many Cores.	Year: 2008	Citation: 529	Citation per year: 35.266666666666666
+Paper: KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs.	Year: 2008	Citation: 3851	Citation per year: 256.73333333333335
+Paper: Difference Engine: Harnessing Memory Redundancy in Virtual Machines.	Year: 2008	Citation: 561	Citation per year: 37.4
+Paper: Finding and Reproducing Heisenbugs in Concurrent Programs.	Year: 2008	Citation: 707	Citation per year: 47.13333333333333
+Paper: DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language.	Year: 2008	Citation: 1087	Citation per year: 72.46666666666667
+Paper: Improving MapReduce Performance in Heterogeneous Environments.	Year: 2008	Citation: 2376	Citation per year: 158.4
+Paper: The Chubby Lock Service for Loosely-Coupled Distributed Systems.	Year: 2006	Citation: 1593	Citation per year: 93.70588235294117
+Paper: Bigtable: A Distributed Storage System for Structured Data (Awarded Best Paper!).	Year: 2006	Citation: 7735	Citation per year: 455.0
+Paper: XFI: Software Guards for System Address Spaces.	Year: 2006	Citation: 549	Citation per year: 32.294117647058826
+Paper: iPlane: An Information Plane for Distributed Services.	Year: 2006	Citation: 729	Citation per year: 42.88235294117647
+Paper: Ceph: A Scalable, High-Performance Distributed File System.	Year: 2006	Citation: 2398	Citation per year: 141.05882352941177
+Paper: Fidelity and Yield in a Volcano Monitoring Sensor Network.	Year: 2006	Citation: 905	Citation per year: 53.23529411764706
+Paper: Making Information Flow Explicit in HiStar.	Year: 2006	Citation: 1018	Citation per year: 59.88235294117647
+Paper: Using Magpie for Request Extraction and Workload Modelling.	Year: 2004	Citation: 872	Citation per year: 45.89473684210526
+Paper: Microreboot - A Technique for Cheap Recovery.	Year: 2004	Citation: 595	Citation per year: 31.31578947368421
+Paper: Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control.	Year: 2004	Citation: 667	Citation per year: 35.10526315789474
+Paper: MapReduce: Simplified Data Processing on Large Clusters.	Year: 2004	Citation: 22304	Citation per year: 1173.8947368421052
+Paper: Secure Untrusted Data Repository (SUNDR).	Year: 2004	Citation: 596	Citation per year: 31.36842105263158
+Paper: CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating System Code.	Year: 2004	Citation: 523	Citation per year: 27.526315789473685
+Paper: Chain Replication for Supporting High Throughput and Availability.	Year: 2004	Citation: 613	Citation per year: 32.26315789473684
+Paper: Automated Worm Fingerprinting.	Year: 2004	Citation: 1089	Citation per year: 57.31578947368421
+Paper: FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment.	Year: 2002	Citation: 1329	Citation per year: 63.285714285714285
+Paper: Secure Routing for Structured Peer-to-Peer Overlay Networks.	Year: 2002	Citation: 1259	Citation per year: 59.95238095238095
+Paper: Pastiche: Making Backup Cheap and Easy.	Year: 2002	Citation: 566	Citation per year: 26.952380952380953
+Paper: ReVirt: Enabling Intrusion Analysis Through Virtual-Machine Logging and Replay.	Year: 2002	Citation: 1506	Citation per year: 71.71428571428571
+Paper: Fine-Grained Network Time Synchronization Using Reference Broadcasts.	Year: 2002	Citation: 3846	Citation per year: 183.14285714285714
+Paper: TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks.	Year: 2002	Citation: 4386	Citation per year: 208.85714285714286
+Paper: CMC: A Pragmatic Approach to Model Checking Real Code.	Year: 2002	Citation: 544	Citation per year: 25.904761904761905
+Paper: Ivy: A Read/Write Peer-to-Peer File System.	Year: 2002	Citation: 700	Citation per year: 33.333333333333336
+Paper: The Design and Implementation of Zap: A System for Migrating Computing Environments.	Year: 2002	Citation: 713	Citation per year: 33.95238095238095
+Paper: Optimizing the Migration of Virtual Computers.	Year: 2002	Citation: 712	Citation per year: 33.904761904761905
+Paper: An Analysis of Internet Content Delivery Systems.	Year: 2002	Citation: 907	Citation per year: 43.19047619047619
+Paper: Resource Overbooking and Application Profiling in Shared Hosting Platforms.	Year: 2002	Citation: 514	Citation per year: 24.476190476190474
+Paper: Scalability and Accuracy in a Large-Scale Network Emulator.	Year: 2002	Citation: 700	Citation per year: 33.333333333333336
+Paper: Memory Resource Management in VMware ESX Server.	Year: 2002	Citation: 2119	Citation per year: 100.9047619047619
+Paper: Scale and Performance in the Denali Isolation Kernel.	Year: 2002	Citation: 626	Citation per year: 29.80952380952381
+Paper: An Integrated Experimental Environment for Distributed Systems and Networks.	Year: 2002	Citation: 1956	Citation per year: 93.14285714285714
+Paper: Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions.	Year: 2000	Citation: 855	Citation per year: 37.17391304347826
+Paper: Overcast: Reliable Multicasting with an Overlay Network.	Year: 2000	Citation: 1728	Citation per year: 75.1304347826087

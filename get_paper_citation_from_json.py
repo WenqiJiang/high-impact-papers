@@ -2,6 +2,8 @@
 Example usage:
 
 python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/OSDI.json' --citation_json_path 'citation_json/OSDI.json' --sleep_sec 2
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SOSP_2021.json' --citation_json_path 'citation_json/SOSP.json' --sleep_sec 2
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SIGMOD_2022.json' --citation_json_path 'citation_json/SIGMOD.json' --sleep_sec 2
 
 Out json format:
 {
@@ -21,7 +23,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--dblp_json_path', type=str, help="(input) path of the input dblp json file, e.g., 'dblp_json_path/OSDI.json'")
 parser.add_argument('--citation_json_path', type=str, help="(output) path of the output citation json file, e.g., 'citation_json_path/OSDI.json'")
 parser.add_argument('--sleep_sec', type=float, default=1.0, help="sleep between search, such that Google will not ban us")
-parser.add_argument('--since_year', type=int, default=2010, help="only count papers after this year")
+parser.add_argument('--since_year', type=int, default=2000, help="only count papers after this year")
 parser.add_argument('--current_year', type=int, default=2023, help="current year")
 
 args = parser.parse_args()
@@ -35,11 +37,14 @@ print("Warning: make sure to use proxy before running the script, otherwise the 
 print("Current year: {}".format(current_year))
 print("Counting paper since year: {}".format(since_year))
 
+
+
 def get_citation_count(paper_title):
     """
     Get the citation count given a paper
     """
     search_query = scholarly.search_pubs(paper_title)
+
     try:
         result = next(search_query)
         return result['num_citations']
@@ -69,7 +74,7 @@ if __name__ == '__main__':
     for paper in papers:
         title = paper['info']['title']
         year = paper['info']['year']
-        if int(year) <= since_year:
+        if int(year) < since_year:
             continue
         if title not in citation_json:
             citation = get_citation_count(title)

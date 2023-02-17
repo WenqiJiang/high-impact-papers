@@ -1,0 +1,188 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/asplos/asplos2002.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"176.24"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"39054560",
+"text":":facetid:toc:db/conf/asplos/asplos2002.bht"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5624398",
+"info":{"authors":{"author":[{"@pid":"15/4687","text":"Raksit Ashok"},{"@pid":"88/449","text":"Saurabh Chheda"},{"@pid":"m/CsabaAndrasMoritz","text":"Csaba Andras Moritz"}]},"title":"Cool-Mem: combining statically speculative memory accessing with selective address translation for energy efficiency.","venue":"ASPLOS","pages":"133-143","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/AshokCM02","doi":"10.1145/605397.605412","ee":"https://doi.org/10.1145/605397.605412","url":"https://dblp.org/rec/conf/asplos/AshokCM02"},
+"url":"URL#5624398"
+},
+{
+"@score":"1",
+"@id":"5624399",
+"info":{"authors":{"author":[{"@pid":"27/2849","text":"J. Adam Butts"},{"@pid":"s/GurindarSSohi","text":"Gurindar S. Sohi"}]},"title":"Dynamic dead-instruction detection and elimination.","venue":"ASPLOS","pages":"199-210","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ButtsS02","doi":"10.1145/605397.605419","ee":"https://doi.org/10.1145/605397.605419","url":"https://dblp.org/rec/conf/asplos/ButtsS02"},
+"url":"URL#5624399"
+},
+{
+"@score":"1",
+"@id":"5624400",
+"info":{"authors":{"author":[{"@pid":"86/6374","text":"Robert Cooksey"},{"@pid":"49/3368","text":"Stéphan Jourdan"},{"@pid":"g/DirkGrunwald","text":"Dirk Grunwald"}]},"title":"A stateless, content-directed data prefetching mechanism.","venue":"ASPLOS","pages":"279-290","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/CookseyJG02","doi":"10.1145/605397.605427","ee":"https://doi.org/10.1145/605397.605427","url":"https://dblp.org/rec/conf/asplos/CookseyJG02"},
+"url":"URL#5624400"
+},
+{
+"@score":"1",
+"@id":"5624401",
+"info":{"authors":{"author":{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"}},"title":"Keynote address: Sensor network research: emerging challenges for architecture, systems, and languages.","venue":"ASPLOS","pages":"1-4","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/Estrin02","ee":"https://dl.acm.org/citation.cfm?id=1090192","url":"https://dblp.org/rec/conf/asplos/Estrin02"},
+"url":"URL#5624401"
+},
+{
+"@score":"1",
+"@id":"5624402",
+"info":{"authors":{"author":[{"@pid":"69/4456","text":"Michael I. Gordon"},{"@pid":"24/1462","text":"William Thies"},{"@pid":"46/5869","text":"Michal Karczmarek"},{"@pid":"94/1097","text":"Jasper Lin"},{"@pid":"50/357","text":"Ali S. Meli"},{"@pid":"94/4085","text":"Andrew A. Lamb"},{"@pid":"63/2626","text":"Chris Leger"},{"@pid":"68/3690","text":"Jeremy Wong"},{"@pid":"h/HenryHoffmann","text":"Henry Hoffmann"},{"@pid":"76/6453","text":"David Maze"},{"@pid":"a/SPAmarasinghe","text":"Saman P. Amarasinghe"}]},"title":"A stream compiler for communication-exposed architectures.","venue":"ASPLOS","pages":"291-303","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GordonTKLMLLWHMA02","doi":"10.1145/605397.605428","ee":"https://doi.org/10.1145/605397.605428","url":"https://dblp.org/rec/conf/asplos/GordonTKLMLLWHMA02"},
+"url":"URL#5624402"
+},
+{
+"@score":"1",
+"@id":"5624403",
+"info":{"authors":{"author":[{"@pid":"13/3558","text":"Philo Juang"},{"@pid":"37/145","text":"Hidekazu Oki"},{"@pid":"84/2694","text":"Yong Wang"},{"@pid":"m/MargaretMartonosi","text":"Margaret Martonosi"},{"@pid":"86/2160","text":"Li-Shiuan Peh"},{"@pid":"93/4579","text":"Daniel Rubenstein"}]},"title":"Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet.","venue":"ASPLOS","pages":"96-107","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/JuangOWMPR02","doi":"10.1145/605397.605408","ee":"https://doi.org/10.1145/605397.605408","url":"https://dblp.org/rec/conf/asplos/JuangOWMPR02"},
+"url":"URL#5624403"
+},
+{
+"@score":"1",
+"@id":"5624404",
+"info":{"authors":{"author":[{"@pid":"56/1846","text":"Changkyu Kim"},{"@pid":"b/DougBurger","text":"Doug Burger"},{"@pid":"k/StephenWKeckler","text":"Stephen W. Keckler"}]},"title":"An adaptive, non-uniform cache structure for wire-delay dominated on-chip caches.","venue":"ASPLOS","pages":"211-222","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KimBK02","doi":"10.1145/605397.605420","ee":"https://doi.org/10.1145/605397.605420","url":"https://dblp.org/rec/conf/asplos/KimBK02"},
+"url":"URL#5624404"
+},
+{
+"@score":"1",
+"@id":"5624405",
+"info":{"authors":{"author":[{"@pid":"72/6043","text":"Hyong-youb Kim"},{"@pid":"05/4510","text":"Vijay S. Pai"},{"@pid":"44/5161","text":"Scott Rixner"}]},"title":"Increasing web server throughput with network interface data caching.","venue":"ASPLOS","pages":"239-250","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KimPR02","doi":"10.1145/605397.605423","ee":"https://doi.org/10.1145/605397.605423","url":"https://dblp.org/rec/conf/asplos/KimPR02"},
+"url":"URL#5624405"
+},
+{
+"@score":"1",
+"@id":"5624406",
+"info":{"authors":{"author":[{"@pid":"42/938","text":"Dongkeun Kim"},{"@pid":"y/DonaldYeung","text":"Donald Yeung"}]},"title":"Design and evaluation of compiler algorithms for pre-execution.","venue":"ASPLOS","pages":"159-170","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KimY02","doi":"10.1145/605397.605415","ee":"https://doi.org/10.1145/605397.605415","url":"https://dblp.org/rec/conf/asplos/KimY02"},
+"url":"URL#5624406"
+},
+{
+"@score":"1",
+"@id":"5624407",
+"info":{"authors":{"author":[{"@pid":"81/4627","text":"Darko Kirovski"},{"@pid":"35/5867","text":"Milenko Drinic"},{"@pid":"p/MiodragPotkonjak","text":"Miodrag Potkonjak"}]},"title":"Enabling trusted software integrity.","venue":"ASPLOS","pages":"108-120","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KirovskiDP02","doi":"10.1145/605397.605409","ee":"https://doi.org/10.1145/605397.605409","url":"https://dblp.org/rec/conf/asplos/KirovskiDP02"},
+"url":"URL#5624407"
+},
+{
+"@score":"1",
+"@id":"5624408",
+"info":{"authors":{"author":[{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"60/2306","text":"Benjie Chen"}]},"title":"Programming language optimizations for modular router configurations.","venue":"ASPLOS","pages":"251-263","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KohlerMC02","doi":"10.1145/605397.605424","ee":"https://doi.org/10.1145/605397.605424","url":"https://dblp.org/rec/conf/asplos/KohlerMC02"},
+"url":"URL#5624408"
+},
+{
+"@score":"1",
+"@id":"5624409",
+"info":{"authors":{"author":[{"@pid":"75/7031","text":"Kevin M. Lepak"},{"@pid":"02/1732","text":"Mikko H. Lipasti"}]},"title":"Temporally silent stores.","venue":"ASPLOS","pages":"30-41","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LepakL02","doi":"10.1145/605397.605401","ee":"https://doi.org/10.1145/605397.605401","url":"https://dblp.org/rec/conf/asplos/LepakL02"},
+"url":"URL#5624409"
+},
+{
+"@score":"1",
+"@id":"5624410",
+"info":{"authors":{"author":[{"@pid":"91/2665","text":"Philip Alexander Levis"},{"@pid":"c/DavidECuller","text":"David E. Culler"}]},"title":"Maté: a tiny virtual machine for sensor networks.","venue":"ASPLOS","pages":"85-95","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LevisC02","doi":"10.1145/605397.605407","ee":"https://doi.org/10.1145/605397.605407","url":"https://dblp.org/rec/conf/asplos/LevisC02"},
+"url":"URL#5624410"
+},
+{
+"@score":"1",
+"@id":"5624411",
+"info":{"authors":{"author":[{"@pid":"75/4601-6","text":"Tao Li 0006"},{"@pid":"j/LizyKurianJohn","text":"Lizy Kurian John"},{"@pid":"72/3356","text":"Anand Sivasubramaniam"},{"@pid":"v/NarayananVijaykrishnan","text":"Narayanan Vijaykrishnan"},{"@pid":"r/JuanCRubio","text":"Juan Rubio 0001"}]},"title":"Understanding and improving operating system effects in control flow prediction.","venue":"ASPLOS","pages":"68-80","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LiJSVR02","doi":"10.1145/605397.605405","ee":"https://doi.org/10.1145/605397.605405","url":"https://dblp.org/rec/conf/asplos/LiJSVR02"},
+"url":"URL#5624411"
+},
+{
+"@score":"1",
+"@id":"5624412",
+"info":{"authors":{"author":[{"@pid":"m/JFMartinez","text":"José F. Martínez"},{"@pid":"t/JosepTorrellas","text":"Josep Torrellas"}]},"title":"Speculative synchronization: applying thread-level speculation to explicitly parallel applications.","venue":"ASPLOS","pages":"18-29","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MartinezT02","doi":"10.1145/605397.605400","ee":"https://doi.org/10.1145/605397.605400","url":"https://dblp.org/rec/conf/asplos/MartinezT02"},
+"url":"URL#5624412"
+},
+{
+"@score":"1",
+"@id":"5624413",
+"info":{"authors":{"author":[{"@pid":"65/1049","text":"Shubhendu S. Mukherjee"},{"@pid":"75/3178","text":"Federico Silla"},{"@pid":"72/2465","text":"Peter J. Bannon"},{"@pid":"73/2231","text":"Joel S. Emer"},{"@pid":"10/1284","text":"Steven Lang"},{"@pid":"75/6878","text":"David Webb"}]},"title":"A comparative study of arbitration algorithms for the Alpha 21364 pipelined router.","venue":"ASPLOS","pages":"223-234","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MukherjeeSBELW02","doi":"10.1145/605397.605421","ee":"https://doi.org/10.1145/605397.605421","url":"https://dblp.org/rec/conf/asplos/MukherjeeSBELW02"},
+"url":"URL#5624413"
+},
+{
+"@score":"1",
+"@id":"5624414",
+"info":{"authors":{"author":[{"@pid":"45/2673","text":"Kazunori Ogata"},{"@pid":"21/5284","text":"Hideaki Komatsu"},{"@pid":"57/6609","text":"Toshio Nakatani"}]},"title":"Bytecode fetch optimization for a Java interpreter.","venue":"ASPLOS","pages":"58-67","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/OgataKN02","doi":"10.1145/605397.605404","ee":"https://doi.org/10.1145/605397.605404","url":"https://dblp.org/rec/conf/asplos/OgataKN02"},
+"url":"URL#5624414"
+},
+{
+"@score":"1",
+"@id":"5624415",
+"info":{"authors":{"author":[{"@pid":"14/6089","text":"Jeffrey T. Oplinger"},{"@pid":"l/MonicaSLam","text":"Monica S. Lam"}]},"title":"Enhancing software reliability with speculative threads.","venue":"ASPLOS","pages":"184-196","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/OplingerL02","doi":"10.1145/605397.605417","ee":"https://doi.org/10.1145/605397.605417","url":"https://dblp.org/rec/conf/asplos/OplingerL02"},
+"url":"URL#5624415"
+},
+{
+"@score":"1",
+"@id":"5624416",
+"info":{"authors":{"author":[{"@pid":"98/6810","text":"Ravi Rajwar"},{"@pid":"g/JamesRGoodman","text":"James R. Goodman"}]},"title":"Transactional lock-free execution of lock-based programs.","venue":"ASPLOS","pages":"5-17","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/RajwarG02","doi":"10.1145/605397.605399","ee":"https://doi.org/10.1145/605397.605399","url":"https://dblp.org/rec/conf/asplos/RajwarG02"},
+"url":"URL#5624416"
+},
+{
+"@score":"1",
+"@id":"5624417",
+"info":{"authors":{"author":[{"@pid":"63/2274","text":"Ruchira Sasanka"},{"@pid":"43/3660","text":"Christopher J. Hughes"},{"@pid":"97/4181","text":"Sarita V. Adve"}]},"title":"Joint local and global hardware adaptations for energy.","venue":"ASPLOS","pages":"144-155","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SasankaHA02","doi":"10.1145/605397.605413","ee":"https://doi.org/10.1145/605397.605413","url":"https://dblp.org/rec/conf/asplos/SasankaHA02"},
+"url":"URL#5624417"
+},
+{
+"@score":"1",
+"@id":"5624418",
+"info":{"authors":{"author":[{"@pid":"23/3778","text":"Timothy Sherwood"},{"@pid":"98/5915","text":"Erez Perelman"},{"@pid":"63/6558","text":"Greg Hamerly"},{"@pid":"c/BradCalder","text":"Brad Calder"}]},"title":"Automatically characterizing large scale program behavior.","venue":"ASPLOS","pages":"45-57","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SherwoodPHC02","doi":"10.1145/605397.605403","ee":"https://doi.org/10.1145/605397.605403","url":"https://dblp.org/rec/conf/asplos/SherwoodPHC02"},
+"url":"URL#5624418"
+},
+{
+"@score":"1",
+"@id":"5624419",
+"info":{"authors":{"author":[{"@pid":"s/MuthianSivathanu","text":"Muthian Sivathanu"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Evolving RPC for active storage.","venue":"ASPLOS","pages":"264-276","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SivathanuAA02","doi":"10.1145/605397.605425","ee":"https://doi.org/10.1145/605397.605425","url":"https://dblp.org/rec/conf/asplos/SivathanuAA02"},
+"url":"URL#5624419"
+},
+{
+"@score":"1",
+"@id":"5624420",
+"info":{"authors":{"author":[{"@pid":"76/6082","text":"Emmett Witchel"},{"@pid":"07/806","text":"Josh Cates"},{"@pid":"a/KrsteAsanovic","text":"Krste Asanovic"}]},"title":"Mondrian memory protection.","venue":"ASPLOS","pages":"304-316","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/WitchelCA02","doi":"10.1145/605397.605429","ee":"https://doi.org/10.1145/605397.605429","url":"https://dblp.org/rec/conf/asplos/WitchelCA02"},
+"url":"URL#5624420"
+},
+{
+"@score":"1",
+"@id":"5624421",
+"info":{"authors":{"author":[{"@pid":"99/4278","text":"Heng Zeng"},{"@pid":"e/CSEllis","text":"Carla Schlatter Ellis"},{"@pid":"l/ARLebeck","text":"Alvin R. Lebeck"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"ECOSystem: managing energy as a first class operating system resource.","venue":"ASPLOS","pages":"123-132","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZengELV02","doi":"10.1145/605397.605411","ee":"https://doi.org/10.1145/605397.605411","url":"https://dblp.org/rec/conf/asplos/ZengELV02"},
+"url":"URL#5624421"
+},
+{
+"@score":"1",
+"@id":"5624422",
+"info":{"authors":{"author":[{"@pid":"68/1545","text":"Antonia Zhai"},{"@pid":"56/1100","text":"Christopher B. Colohan"},{"@pid":"s/JGregorySteffan","text":"J. Gregory Steffan"},{"@pid":"65/4120","text":"Todd C. Mowry"}]},"title":"Compiler optimization of scalar value communication between speculative threads.","venue":"ASPLOS","pages":"171-183","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZhaiCSM02","doi":"10.1145/605397.605416","ee":"https://doi.org/10.1145/605397.605416","url":"https://dblp.org/rec/conf/asplos/ZhaiCSM02"},
+"url":"URL#5624422"
+},
+{
+"@score":"1",
+"@id":"5675920",
+"info":{"authors":{"author":[{"@pid":"79/3674","text":"Kourosh Gharachorloo"},{"@pid":"w/DavidAWood","text":"David A. Wood 0001"}]},"title":"Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-X), San Jose, California, USA, October 5-9, 2002.","venue":"ASPLOS","publisher":"ACM Press","year":"2002","type":"Editorship","key":"conf/asplos/2002","doi":"10.1145/605397","ee":"https://doi.org/10.1145/605397","url":"https://dblp.org/rec/conf/asplos/2002"},
+"url":"URL#5675920"
+}
+]
+}
+}
+}

@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/asplos/asplos2000.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"223.41"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"39054559",
+"text":":facetid:toc:db/conf/asplos/asplos2000.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5802685",
+"info":{"authors":{"author":[{"@pid":"98/4487","text":"Emery D. Berger"},{"@pid":"m/KSMcKinley","text":"Kathryn S. McKinley"},{"@pid":"13/3527","text":"Robert D. Blumofe"},{"@pid":"43/1901-1","text":"Paul R. Wilson 0001"}]},"title":"Hoard: A Scalable Memory Allocator for Multithreaded Applications.","venue":"ASPLOS","pages":"117-128","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BergerMBW00","doi":"10.1145/378993.379232","ee":"https://doi.org/10.1145/378993.379232","url":"https://dblp.org/rec/conf/asplos/BergerMBW00"},
+"url":"URL#5802685"
+},
+{
+"@score":"1",
+"@id":"5802686",
+"info":{"authors":{"author":[{"@pid":"b/RaoulBhoedjang","text":"Raoul Bhoedjang"},{"@pid":"24/2293","text":"Kees Verstoep"},{"@pid":"86/4193","text":"Tim Rühl"},{"@pid":"b/HenriEBal","text":"Henri E. Bal"},{"@pid":"52/6203","text":"Rutger F. H. Hofman"}]},"title":"Evaluating Design Alternatives for Reliable Communication on High-Speed Networks.","venue":"ASPLOS","pages":"71-81","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BhoedjangVRBH00","doi":"10.1145/378993.379004","ee":"https://doi.org/10.1145/378993.379004","url":"https://dblp.org/rec/conf/asplos/BhoedjangVRBH00"},
+"url":"URL#5802686"
+},
+{
+"@score":"1",
+"@id":"5802687",
+"info":{"authors":{"author":[{"@pid":"74/3684","text":"Jerome Burke"},{"@pid":"44/3717","text":"John McDonald"},{"@pid":"a/ToddMAustin","text":"Todd M. Austin"}]},"title":"Architectural Support for Fast Symmetric-Key Cryptography.","venue":"ASPLOS","pages":"178-189","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BurkeMA00","doi":"10.1145/378993.379238","ee":"https://doi.org/10.1145/378993.379238","url":"https://dblp.org/rec/conf/asplos/BurkeMA00"},
+"url":"URL#5802687"
+},
+{
+"@score":"1",
+"@id":"5802688",
+"info":{"authors":{"author":[{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"e/UErlingsson","text":"Úlfar Erlingsson"},{"@pid":"21/6818","text":"Shun-Tak Leung"},{"@pid":"20/2752","text":"Mark T. Vandevoorde"},{"@pid":"40/1118","text":"Carl A. Waldspurger"},{"@pid":"80/3801","text":"Kip Walker"},{"@pid":"16/6237","text":"William E. Weihl"}]},"title":"Efficient and Flexible Value Sampling.","venue":"ASPLOS","pages":"160-167","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BurrowsELVWWW00","doi":"10.1145/378993.379236","ee":"https://doi.org/10.1145/378993.379236","url":"https://dblp.org/rec/conf/asplos/BurrowsELVWWW00"},
+"url":"URL#5802688"
+},
+{
+"@score":"1",
+"@id":"5802689",
+"info":{"authors":{"author":[{"@pid":"53/3446","text":"Andy Chou"},{"@pid":"28/2333","text":"Benjamin Chelf"},{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"06/3163","text":"Mark A. Heinrich"}]},"title":"Using Meta-level Compilation to Check FLASH Protocol Code.","venue":"ASPLOS","pages":"59-70","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ChouCEH00","doi":"10.1145/378993.379002","ee":"https://doi.org/10.1145/378993.379002","url":"https://dblp.org/rec/conf/asplos/ChouCEH00"},
+"url":"URL#5802689"
+},
+{
+"@score":"1",
+"@id":"5802690",
+"info":{"authors":{"author":[{"@pid":"c/DanielAConnors","text":"Daniel A. Connors"},{"@pid":"69/5961","text":"Hillery C. Hunter"},{"@pid":"07/4137","text":"Ben-Chung Cheng"},{"@pid":"03/4630","text":"Wen-mei W. Hwu"}]},"title":"Hardware Support for Dynamic Management of Compiler-Directed Computation Reuse.","venue":"ASPLOS","pages":"222-233","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ConnorsHCH00","doi":"10.1145/378993.379243","ee":"https://doi.org/10.1145/378993.379243","url":"https://dblp.org/rec/conf/asplos/ConnorsHCH00"},
+"url":"URL#5802690"
+},
+{
+"@score":"1",
+"@id":"5802691",
+"info":{"authors":{"author":[{"@pid":"18/5335","text":"Evelyn Duesterwald"},{"@pid":"53/1456","text":"Vasanth Bala"}]},"title":"Software Profiling for Hot Path Prediction: Less is More.","venue":"ASPLOS","pages":"202-211","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/DuesterwaldB00","doi":"10.1145/378993.379241","ee":"https://doi.org/10.1145/378993.379241","url":"https://dblp.org/rec/conf/asplos/DuesterwaldB00"},
+"url":"URL#5802691"
+},
+{
+"@score":"1",
+"@id":"5802692",
+"info":{"authors":{"author":[{"@pid":"16/1848","text":"Krisztián Flautner"},{"@pid":"03/3431","text":"Richard Uhlig"},{"@pid":"r/StevenKReinhardt","text":"Steven K. Reinhardt"},{"@pid":"m/TrevorNMudge","text":"Trevor N. Mudge"}]},"title":"Thread Level Parallelism and Interactive Performance of Desktop Applications.","venue":"ASPLOS","pages":"129-138","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/FlautnerURM00","doi":"10.1145/378993.379233","ee":"https://doi.org/10.1145/378993.379233","url":"https://dblp.org/rec/conf/asplos/FlautnerURM00"},
+"url":"URL#5802692"
+},
+{
+"@score":"1",
+"@id":"5802693",
+"info":{"authors":{"author":[{"@pid":"79/3674","text":"Kourosh Gharachorloo"},{"@pid":"21/3774","text":"Madhu Sharma"},{"@pid":"00/3632","text":"Simon Steely"},{"@pid":"00/6506","text":"Stephen Van Doren"}]},"title":"Architecture and design of AlphaServer GS320.","venue":"ASPLOS","pages":"13-24","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GharachorlooSSD00","doi":"10.1145/378993.378997","ee":"https://doi.org/10.1145/378993.378997","url":"https://dblp.org/rec/conf/asplos/GharachorlooSSD00"},
+"url":"URL#5802693"
+},
+{
+"@score":"1",
+"@id":"5802694",
+"info":{"authors":{"author":[{"@pid":"92/916","text":"Jeff Gibson"},{"@pid":"26/6949","text":"Robert Kunz"},{"@pid":"39/857","text":"David Ofelt"},{"@pid":"06/3163","text":"Mark A. Heinrich"}]},"title":"FLASH vs. (Simulated) FLASH: Closing the Simulation Loop.","venue":"ASPLOS","pages":"49-58","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GibsonKOH00","doi":"10.1145/378993.379000","ee":"https://doi.org/10.1145/378993.379000","url":"https://dblp.org/rec/conf/asplos/GibsonKOH00"},
+"url":"URL#5802694"
+},
+{
+"@score":"1",
+"@id":"5802695",
+"info":{"authors":{"author":[{"@pid":"49/6589","text":"Jason L. Hill"},{"@pid":"70/5600","text":"Robert Szewczyk"},{"@pid":"63/4805","text":"Alec Woo"},{"@pid":"82/4467","text":"Seth Hollar"},{"@pid":"c/DavidECuller","text":"David E. Culler"},{"@pid":"50/6450","text":"Kristofer S. J. Pister"}]},"title":"System Architecture Directions for Networked Sensors.","venue":"ASPLOS","pages":"93-104","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HillSWHCP00","doi":"10.1145/378993.379006","ee":"https://doi.org/10.1145/378993.379006","url":"https://dblp.org/rec/conf/asplos/HillSWHCP00"},
+"url":"URL#5802695"
+},
+{
+"@score":"1",
+"@id":"5802696",
+"info":{"authors":{"author":[{"@pid":"72/2233","text":"Motohiro Kawahito"},{"@pid":"21/5284","text":"Hideaki Komatsu"},{"@pid":"57/6609","text":"Toshio Nakatani"}]},"title":"Effective Null Pointer Check Elimination Utilizing Hardware Trap.","venue":"ASPLOS","pages":"139-149","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KawahitoKN00","doi":"10.1145/378993.379234","ee":"https://doi.org/10.1145/378993.379234","url":"https://dblp.org/rec/conf/asplos/KawahitoKN00"},
+"url":"URL#5802696"
+},
+{
+"@score":"1",
+"@id":"5802697",
+"info":{"authors":{"author":[{"@pid":"k/JohnKubiatowicz","text":"John Kubiatowicz"},{"@pid":"96/6719","text":"David Bindel"},{"@pid":"88/2827-4","text":"Yan Chen 0004"},{"@pid":"13/1979","text":"Steven E. Czerwinski"},{"@pid":"04/3224","text":"Patrick R. Eaton"},{"@pid":"16/434","text":"Dennis Geels"},{"@pid":"46/5713","text":"Ramakrishna Gummadi"},{"@pid":"71/1478","text":"Sean C. Rhea"},{"@pid":"w/HakimWeatherspoon","text":"Hakim Weatherspoon"},{"@pid":"05/4127","text":"Westley Weimer"},{"@pid":"10/2958","text":"Chris Wells"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"}]},"title":"OceanStore: An Architecture for Global-Scale Persistent Storage.","venue":"ASPLOS","pages":"190-201","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KubiatowiczBCCEGGRWWWZ00","doi":"10.1145/378993.379239","ee":"https://doi.org/10.1145/378993.379239","url":"https://dblp.org/rec/conf/asplos/KubiatowiczBCCEGGRWWWZ00"},
+"url":"URL#5802697"
+},
+{
+"@score":"1",
+"@id":"5802698",
+"info":{"authors":{"author":[{"@pid":"l/ARLebeck","text":"Alvin R. Lebeck"},{"@pid":"64/4044","text":"Xiaobo Fan"},{"@pid":"99/4278","text":"Heng Zeng"},{"@pid":"e/CSEllis","text":"Carla Schlatter Ellis"}]},"title":"Power Aware Page Allocation.","venue":"ASPLOS","pages":"105-116","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LebeckFZE00","doi":"10.1145/378993.379007","ee":"https://doi.org/10.1145/378993.379007","url":"https://dblp.org/rec/conf/asplos/LebeckFZE00"},
+"url":"URL#5802698"
+},
+{
+"@score":"1",
+"@id":"5802699",
+"info":{"authors":{"author":[{"@pid":"l/DavidLie","text":"David Lie"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"67/6805","text":"Mark Mitchell"},{"@pid":"l/PatrickLincoln","text":"Patrick Lincoln"},{"@pid":"b/DanBoneh","text":"Dan Boneh"},{"@pid":"m/JohnCMitchell","text":"John C. Mitchell"},{"@pid":"h/MarkHorowitz","text":"Mark Horowitz"}]},"title":"Architectural Support for Copy and Tamper Resistant Software.","venue":"ASPLOS","pages":"168-177","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LieTMLBMH00","doi":"10.1145/378993.379237","ee":"https://doi.org/10.1145/378993.379237","url":"https://dblp.org/rec/conf/asplos/LieTMLBMH00"},
+"url":"URL#5802699"
+},
+{
+"@score":"1",
+"@id":"5802700",
+"info":{"authors":{"author":[{"@pid":"21/3908","text":"Milo M. K. Martin"},{"@pid":"27/2064","text":"Daniel J. Sorin"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"},{"@pid":"77/5087","text":"Alaa R. Alameldeen"},{"@pid":"01/4912","text":"Ross M. Dickson"},{"@pid":"77/2161","text":"Carl J. Mauer"},{"@pid":"79/43","text":"Kevin E. Moore"},{"@pid":"51/4925","text":"Manoj Plakal"},{"@pid":"h/MarkDHill","text":"Mark D. Hill"},{"@pid":"w/DavidAWood","text":"David A. Wood 0001"}]},"title":"Timestamp snooping: an approach for extending SMPs.","venue":"ASPLOS","pages":"25-36","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MartinSAADMMPHW00","doi":"10.1145/378993.378998","ee":"https://doi.org/10.1145/378993.378998","url":"https://dblp.org/rec/conf/asplos/MartinSAADMMPHW00"},
+"url":"URL#5802700"
+},
+{
+"@score":"1",
+"@id":"5802701",
+"info":{"authors":{"author":[{"@pid":"98/1079","text":"Peter R. Mattson"},{"@pid":"d/WJDally","text":"William J. Dally"},{"@pid":"44/5161","text":"Scott Rixner"},{"@pid":"67/4386","text":"Ujval J. Kapasi"},{"@pid":"97/1367","text":"John D. Owens"}]},"title":"Communication Scheduling.","venue":"ASPLOS","pages":"82-92","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MattsonDRKO00","doi":"10.1145/378993.379005","ee":"https://doi.org/10.1145/378993.379005","url":"https://dblp.org/rec/conf/asplos/MattsonDRKO00"},
+"url":"URL#5802701"
+},
+{
+"@score":"1",
+"@id":"5802702",
+"info":{"authors":{"author":[{"@pid":"44/5691","text":"Ashwini K. Nanda"},{"@pid":"42/6110","text":"Kwok-Ken Mak"},{"@pid":"48/4316","text":"Krishnan Sugavanam"},{"@pid":"99/4767","text":"Ramendra K. Sahoo"},{"@pid":"24/53","text":"Vijayaraghavan Soundararajan"},{"@pid":"78/6988","text":"T. Basil Smith"}]},"title":"MemorIES: A Programmable, Real-Time Hardware Emulation Tool for Multiprocessor Server Design.","venue":"ASPLOS","pages":"37-48","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/NandaMSSSS00","doi":"10.1145/378993.378999","ee":"https://doi.org/10.1145/378993.378999","url":"https://dblp.org/rec/conf/asplos/NandaMSSSS00"},
+"url":"URL#5802702"
+},
+{
+"@score":"1",
+"@id":"5802703",
+"info":{"authors":{"author":[{"@pid":"44/5958","text":"Joshua Redstone"},{"@pid":"e/SJEggers","text":"Susan J. Eggers"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"An Analysis of Operating System Behavior on a Simultaneous Multithreaded Architecture.","venue":"ASPLOS","pages":"245-256","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/RedstoneEL00","doi":"10.1145/378993.379245","ee":"https://doi.org/10.1145/378993.379245","url":"https://dblp.org/rec/conf/asplos/RedstoneEL00"},
+"url":"URL#5802703"
+},
+{
+"@score":"1",
+"@id":"5802704",
+"info":{"authors":{"author":[{"@pid":"52/1925","text":"Steven W. Schlosser"},{"@pid":"03/4749","text":"John Linwood Griffin"},{"@pid":"55/1314","text":"David Nagle"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Designing computer systems with MEMS-based storage.","venue":"ASPLOS","pages":"1-12","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SchlosserGNG00","doi":"10.1145/378993.378996","ee":"https://doi.org/10.1145/378993.378996","url":"https://dblp.org/rec/conf/asplos/SchlosserGNG00"},
+"url":"URL#5802704"
+},
+{
+"@score":"1",
+"@id":"5802705",
+"info":{"authors":{"author":[{"@pid":"55/1134","text":"Allan Snavely"},{"@pid":"t/DeanMTullsen","text":"Dean M. Tullsen"}]},"title":"Symbiotic Jobscheduling for a Simultaneous Multithreading Processor.","venue":"ASPLOS","pages":"234-244","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SnavelyT00","doi":"10.1145/378993.379244","ee":"https://doi.org/10.1145/378993.379244","url":"https://dblp.org/rec/conf/asplos/SnavelyT00"},
+"url":"URL#5802705"
+},
+{
+"@score":"1",
+"@id":"5802706",
+"info":{"authors":{"author":[{"@pid":"04/2607","text":"Karthik Sundaramoorthy"},{"@pid":"70/4785","text":"Zachary Purser"},{"@pid":"87/6036","text":"Eric Rotenberg"}]},"title":"Slipstream Processors: Improving both Performance and Fault Tolerance.","venue":"ASPLOS","pages":"257-268","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SundaramoorthyPR00","doi":"10.1145/378993.379247","ee":"https://doi.org/10.1145/378993.379247","url":"https://dblp.org/rec/conf/asplos/SundaramoorthyPR00"},
+"url":"URL#5802706"
+},
+{
+"@score":"1",
+"@id":"5802707",
+"info":{"authors":{"author":[{"@pid":"61/1720","text":"Rumi Zahir"},{"@pid":"95/1492","text":"Jonathan Ross"},{"@pid":"60/4588","text":"Dale Morris"},{"@pid":"76/5180","text":"Drew Hess"}]},"title":"OS and Compiler Considerations in the Design of the IA-64 Architecture.","venue":"ASPLOS","pages":"212-221","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZahirRMH00","doi":"10.1145/378993.379242","ee":"https://doi.org/10.1145/378993.379242","url":"https://dblp.org/rec/conf/asplos/ZahirRMH00"},
+"url":"URL#5802707"
+},
+{
+"@score":"1",
+"@id":"5802708",
+"info":{"authors":{"author":[{"@pid":"z/YoutaoZhang","text":"Youtao Zhang"},{"@pid":"y/JunYang2","text":"Jun Yang 0002"},{"@pid":"g/RajivGupta","text":"Rajiv Gupta 0001"}]},"title":"Frequent Value Locality and Value-Centric Data Cache Design.","venue":"ASPLOS","pages":"150-159","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZhangYG00","doi":"10.1145/378993.379235","ee":"https://doi.org/10.1145/378993.379235","url":"https://dblp.org/rec/conf/asplos/ZhangYG00"},
+"url":"URL#5802708"
+},
+{
+"@score":"1",
+"@id":"5842610",
+"info":{"authors":{"author":[{"@pid":"56/3748","text":"Larry Rudolph"},{"@pid":"g/AnoopGupta","text":"Anoop Gupta"}]},"title":"ASPLOS-IX Proceedings of the 9th International Conference on Architectural Support for Programming Languages and Operating Systems, Cambridge, MA, USA, November 12-15, 2000.","venue":"ASPLOS","publisher":"ACM Press","year":"2000","type":"Editorship","key":"conf/asplos/2000","doi":"10.1145/378993","ee":"https://doi.org/10.1145/378993","url":"https://dblp.org/rec/conf/asplos/2000"},
+"url":"URL#5842610"
+}
+]
+}
+}
+}

@@ -1,9 +1,10 @@
 """
 Example usage:
 
-python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/OSDI.json' --citation_json_path 'citation_json/OSDI.json' --sleep_sec 2
-python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SOSP_2021.json' --citation_json_path 'citation_json/SOSP.json' --sleep_sec 2
-python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SIGMOD_2022.json' --citation_json_path 'citation_json/SIGMOD.json' --sleep_sec 2
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/OSDI.json' --citation_json_path 'citation_json/OSDI.json' --sleep_sec 0
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SOSP_2021.json' --citation_json_path 'citation_json/SOSP.json' --sleep_sec 0
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SIGMOD_2022.json' --citation_json_path 'citation_json/SIGMOD.json' --sleep_sec 0
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/ASPLOS_2022.json' --citation_json_path 'citation_json/ASPLOS.json' --sleep_sec 0
 
 Out json format:
 {
@@ -17,7 +18,7 @@ import argparse
 import json
 import os
 import time
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dblp_json_path', type=str, help="(input) path of the input dblp json file, e.g., 'dblp_json_path/OSDI.json'")
@@ -38,6 +39,12 @@ print("Current year: {}".format(current_year))
 print("Counting paper since year: {}".format(since_year))
 
 
+pg = ProxyGenerator()
+print("establishing proxy...")
+success = pg.ScraperAPI('622b7b153d20431b6ac2c5b83439644d')
+print("scraper API succeed: ", success)
+scholarly.use_proxy(pg)
+print("proxy established")
 
 def get_citation_count(paper_title):
     """

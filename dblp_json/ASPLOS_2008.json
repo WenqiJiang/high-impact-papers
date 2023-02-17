@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/asplos/asplos2008.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"177.40"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"39054563",
+"text":":facetid:toc:db/conf/asplos/asplos2008.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4690189",
+"info":{"authors":{"author":[{"@pid":"89/5865","text":"Chinnakrishnan S. Ballapuram"},{"@pid":"67/2384","text":"Ahmad Sharif"},{"@pid":"168/5992","text":"Hsien-Hsin S. Lee"}]},"title":"Exploiting access semantics and program behavior to reduce snoop power in chip multiprocessors.","venue":"ASPLOS","pages":"60-69","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BallapuramSL08","doi":"10.1145/1346281.1346290","ee":"https://doi.org/10.1145/1346281.1346290","url":"https://dblp.org/rec/conf/asplos/BallapuramSL08"},
+"url":"URL#4690189"
+},
+{
+"@score":"1",
+"@id":"4690190",
+"info":{"authors":{"author":[{"@pid":"43/3000","text":"Ravi Bhargava"},{"@pid":"29/6580","text":"Ben Serebrin"},{"@pid":"11/5388","text":"Francesco Spadini"},{"@pid":"87/5027","text":"Srilatha Manne"}]},"title":"Accelerating two-dimensional page walks for virtualized systems.","venue":"ASPLOS","pages":"26-35","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BhargavaSSM08","doi":"10.1145/1346281.1346286","ee":"https://doi.org/10.1145/1346281.1346286","url":"https://dblp.org/rec/conf/asplos/BhargavaSSM08"},
+"url":"URL#4690190"
+},
+{
+"@score":"1",
+"@id":"4690192",
+"info":{"authors":{"author":[{"@pid":"22/2832","text":"Ioana Burcea"},{"@pid":"86/4440","text":"Stephen Somogyi"},{"@pid":"m/AndreasMoshovos","text":"Andreas Moshovos"},{"@pid":"f/BabakFalsafi","text":"Babak Falsafi"}]},"title":"Predictor virtualization.","venue":"ASPLOS","pages":"157-167","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BurceaSMF08","doi":"10.1145/1346281.1346301","ee":"https://doi.org/10.1145/1346281.1346301","url":"https://dblp.org/rec/conf/asplos/BurceaSMF08"},
+"url":"URL#4690192"
+},
+{
+"@score":"1",
+"@id":"4690193",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"99/1869","text":"Jean-Philippe Martin"}]},"title":"Better bug reporting with better privacy.","venue":"ASPLOS","pages":"319-328","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/CastroCM08","doi":"10.1145/1346281.1346322","ee":"https://doi.org/10.1145/1346281.1346322","url":"https://dblp.org/rec/conf/asplos/CastroCM08"},
+"url":"URL#4690193"
+},
+{
+"@score":"1",
+"@id":"4690195",
+"info":{"authors":{"author":[{"@pid":"17/2084","text":"Xiaoxin Chen"},{"@pid":"55/1439","text":"Tal Garfinkel"},{"@pid":"58/5295","text":"E. Christopher Lewis"},{"@pid":"64/2373","text":"Pratap Subrahmanyam"},{"@pid":"40/1118","text":"Carl A. Waldspurger"},{"@pid":"b/DanBoneh","text":"Dan Boneh"},{"@pid":"58/5604","text":"Jeffrey S. Dwoskin"},{"@pid":"03/6105","text":"Dan R. K. Ports"}]},"title":"Overshadow: a virtualization-based approach to retrofitting protection in commodity operating systems.","venue":"ASPLOS","pages":"2-13","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ChenGLSWBDP08","doi":"10.1145/1346281.1346284","ee":"https://doi.org/10.1145/1346281.1346284","url":"https://dblp.org/rec/conf/asplos/ChenGLSWBDP08"},
+"url":"URL#4690195"
+},
+{
+"@score":"1",
+"@id":"4690196",
+"info":{"authors":{"author":[{"@pid":"16/5644","text":"Bumyong Choi"},{"@pid":"60/5029","text":"Leo Porter 0001"},{"@pid":"t/DeanMTullsen","text":"Dean M. Tullsen"}]},"title":"Accurate branch prediction for short threads.","venue":"ASPLOS","pages":"125-134","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ChoiPT08","doi":"10.1145/1346281.1346298","ee":"https://doi.org/10.1145/1346281.1346298","url":"https://dblp.org/rec/conf/asplos/ChoiPT08"},
+"url":"URL#4690196"
+},
+{
+"@score":"1",
+"@id":"4690199",
+"info":{"authors":{"author":[{"@pid":"83/6032","text":"Russ Cox"},{"@pid":"90/2307","text":"Tom Bergan"},{"@pid":"21/659","text":"Austin T. Clements"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"78/5231","text":"Eddie Kohler"}]},"title":"Xoc, an extension-oriented compiler for systems programming.","venue":"ASPLOS","pages":"244-254","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/CoxBCKK08","doi":"10.1145/1346281.1346312","ee":"https://doi.org/10.1145/1346281.1346312","url":"https://dblp.org/rec/conf/asplos/CoxBCKK08"},
+"url":"URL#4690199"
+},
+{
+"@score":"1",
+"@id":"4690200",
+"info":{"authors":{"author":[{"@pid":"83/3984","text":"Joe Devietti"},{"@pid":"29/2288","text":"Colin Blundell"},{"@pid":"21/3908","text":"Milo M. K. Martin"},{"@pid":"99/3437","text":"Steve Zdancewic"}]},"title":"Hardbound: architectural support for spatial safety of the C programming language.","venue":"ASPLOS","pages":"103-114","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/DeviettiBMZ08","doi":"10.1145/1346281.1346295","ee":"https://doi.org/10.1145/1346281.1346295","url":"https://dblp.org/rec/conf/asplos/DeviettiBMZ08"},
+"url":"URL#4690200"
+},
+{
+"@score":"1",
+"@id":"4690202",
+"info":{"authors":{"author":[{"@pid":"06/5242","text":"Luk Van Ertvelde"},{"@pid":"e/LievenEeckhout","text":"Lieven Eeckhout"}]},"title":"Dispersing proprietary applications as benchmarks through code mutation.","venue":"ASPLOS","pages":"201-210","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ErtveldeE08","doi":"10.1145/1346281.1346307","ee":"https://doi.org/10.1145/1346281.1346307","url":"https://dblp.org/rec/conf/asplos/ErtveldeE08"},
+"url":"URL#4690202"
+},
+{
+"@score":"1",
+"@id":"4690203",
+"info":{"authors":{"author":[{"@pid":"46/1879","text":"Vinod Ganapathy"},{"@pid":"00/5158","text":"Matthew J. Renzelmann"},{"@pid":"64/1440","text":"Arini Balakrishnan"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"},{"@pid":"j/SomeshJha","text":"Somesh Jha"}]},"title":"The design and implementation of microdrivers.","venue":"ASPLOS","pages":"168-178","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GanapathyRBSJ08","doi":"10.1145/1346281.1346303","ee":"https://doi.org/10.1145/1346281.1346303","url":"https://dblp.org/rec/conf/asplos/GanapathyRBSJ08"},
+"url":"URL#4690203"
+},
+{
+"@score":"1",
+"@id":"4690204",
+"info":{"authors":{"author":[{"@pid":"54/699","text":"Jayanth Gummaraju"},{"@pid":"39/3448","text":"Joel Coburn"},{"@pid":"57/5772","text":"Yoshio Turner"},{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"}]},"title":"Streamware: programming general-purpose multicore processors using streams.","venue":"ASPLOS","pages":"297-307","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GummarajuCTR08","doi":"10.1145/1346281.1346319","ee":"https://doi.org/10.1145/1346281.1346319","url":"https://dblp.org/rec/conf/asplos/GummarajuCTR08"},
+"url":"URL#4690204"
+},
+{
+"@score":"1",
+"@id":"4690205",
+"info":{"authors":{"author":[{"@pid":"49/5144","text":"José A. Joao"},{"@pid":"m/OnurMutlu","text":"Onur Mutlu"},{"@pid":"87/5743","text":"Hyesoon Kim"},{"@pid":"35/1040","text":"Rishi Agarwal"},{"@pid":"p/YaleNPatt","text":"Yale N. Patt"}]},"title":"Improving the performance of object-oriented languages with dynamic predication of indirect jumps.","venue":"ASPLOS","pages":"80-90","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/JoaoMKAP08","doi":"10.1145/1346281.1346293","ee":"https://doi.org/10.1145/1346281.1346293","url":"https://dblp.org/rec/conf/asplos/JoaoMKAP08"},
+"url":"URL#4690205"
+},
+{
+"@score":"1",
+"@id":"4690206",
+"info":{"authors":{"author":[{"@pid":"47/1003","text":"Milind Kulkarni 0001"},{"@pid":"71/5735","text":"Keshav Pingali"},{"@pid":"07/70","text":"Ganesh Ramanarayanan"},{"@pid":"w/BruceWalter","text":"Bruce Walter"},{"@pid":"b/KavitaBala","text":"Kavita Bala"},{"@pid":"69/6168","text":"L. Paul Chew"}]},"title":"Optimistic parallelism benefits from data partitioning.","venue":"ASPLOS","pages":"233-243","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KulkarniPRWBC08","doi":"10.1145/1346281.1346311","ee":"https://doi.org/10.1145/1346281.1346311","url":"https://dblp.org/rec/conf/asplos/KulkarniPRWBC08"},
+"url":"URL#4690206"
+},
+{
+"@score":"1",
+"@id":"4690208",
+"info":{"authors":{"author":[{"@pid":"l/BenjaminCLee","text":"Benjamin C. Lee"},{"@pid":"30/135","text":"David M. Brooks"}]},"title":"Efficiency trends and limits from comprehensive microarchitectural adaptivity.","venue":"ASPLOS","pages":"36-47","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LeeB08","doi":"10.1145/1346281.1346288","ee":"https://doi.org/10.1145/1346281.1346288","url":"https://dblp.org/rec/conf/asplos/LeeB08"},
+"url":"URL#4690208"
+},
+{
+"@score":"1",
+"@id":"4690209",
+"info":{"authors":{"author":[{"@pid":"29/6105","text":"Man-Lap Li"},{"@pid":"80/3273","text":"Pradeep Ramachandran"},{"@pid":"29/4909","text":"Swarup Kumar Sahoo"},{"@pid":"97/4181","text":"Sarita V. Adve"},{"@pid":"78/4438","text":"Vikram S. Adve"},{"@pid":"99/2747","text":"Yuanyuan Zhou"}]},"title":"Understanding the propagation of hard errors to software and implications for resilient system design.","venue":"ASPLOS","pages":"265-276","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LiRSAAZ08","doi":"10.1145/1346281.1346315","ee":"https://doi.org/10.1145/1346281.1346315","url":"https://dblp.org/rec/conf/asplos/LiRSAAZ08"},
+"url":"URL#4690209"
+},
+{
+"@score":"1",
+"@id":"4690210",
+"info":{"authors":{"author":[{"@pid":"40/1732","text":"Michael D. Linderman"},{"@pid":"82/4748","text":"Jamison D. Collins"},{"@pid":"w/HongWang3","text":"Hong Wang 0003"},{"@pid":"m/TeresaHYMeng","text":"Teresa H. Meng"}]},"title":"Merge: a programming model for heterogeneous multi-core systems.","venue":"ASPLOS","pages":"287-296","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LindermanCWM08","doi":"10.1145/1346281.1346318","ee":"https://doi.org/10.1145/1346281.1346318","url":"https://dblp.org/rec/conf/asplos/LindermanCWM08"},
+"url":"URL#4690210"
+},
+{
+"@score":"1",
+"@id":"4690211",
+"info":{"authors":{"author":[{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"58/4538","text":"Eunsoo Seo"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"Learning from mistakes: a comprehensive study on real world concurrency bug characteristics.","venue":"ASPLOS","pages":"329-339","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LuPSZ08","doi":"10.1145/1346281.1346323","ee":"https://doi.org/10.1145/1346281.1346323","url":"https://dblp.org/rec/conf/asplos/LuPSZ08"},
+"url":"URL#4690211"
+},
+{
+"@score":"1",
+"@id":"4690212",
+"info":{"authors":{"author":[{"@pid":"59/6053","text":"Vitaliy B. Lvin"},{"@pid":"65/666","text":"Gene Novark"},{"@pid":"98/4487","text":"Emery D. Berger"},{"@pid":"z/BGZorn","text":"Benjamin G. Zorn"}]},"title":"Archipelago: trading address space for reliability and security.","venue":"ASPLOS","pages":"115-124","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LvinNBZ08","doi":"10.1145/1346281.1346296","ee":"https://doi.org/10.1145/1346281.1346296","url":"https://dblp.org/rec/conf/asplos/LvinNBZ08"},
+"url":"URL#4690212"
+},
+{
+"@score":"1",
+"@id":"4690213",
+"info":{"authors":{"author":[{"@pid":"70/2885","text":"Arindam Mallik"},{"@pid":"68/6724","text":"Jack Cosgrove"},{"@pid":"84/523","text":"Robert P. Dick"},{"@pid":"10/2386","text":"Gokhan Memik"},{"@pid":"95/2040","text":"Peter A. Dinda"}]},"title":"PICSEL: measuring user-perceived performance to control dynamic frequency scaling.","venue":"ASPLOS","pages":"70-79","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MallikCDMD08","doi":"10.1145/1346281.1346291","ee":"https://doi.org/10.1145/1346281.1346291","url":"https://dblp.org/rec/conf/asplos/MallikCDMD08"},
+"url":"URL#4690213"
+},
+{
+"@score":"1",
+"@id":"4690214",
+"info":{"authors":{"author":[{"@pid":"39/5761","text":"Jonathan M. McCune"},{"@pid":"49/6324","text":"Bryan Parno"},{"@pid":"16/6873","text":"Adrian Perrig"},{"@pid":"r/MichaelKReiter","text":"Michael K. Reiter"},{"@pid":"04/3992","text":"Arvind Seshadri"}]},"title":"How low can you go?: recommendations for hardware-supported minimal TCB code execution.","venue":"ASPLOS","pages":"14-25","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/McCunePPRS08","doi":"10.1145/1346281.1346285","ee":"https://doi.org/10.1145/1346281.1346285","url":"https://dblp.org/rec/conf/asplos/McCunePPRS08"},
+"url":"URL#4690214"
+},
+{
+"@score":"1",
+"@id":"4690215",
+"info":{"authors":{"author":[{"@pid":"91/2591","text":"Shashidhar Mysore"},{"@pid":"03/831","text":"Bita Mazloom"},{"@pid":"38/2969","text":"Banit Agrawal"},{"@pid":"23/3778","text":"Timothy Sherwood"}]},"title":"Understanding and visualizing full systems with data flow tomography.","venue":"ASPLOS","pages":"211-221","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/MysoreMAS08","doi":"10.1145/1346281.1346308","ee":"https://doi.org/10.1145/1346281.1346308","url":"https://dblp.org/rec/conf/asplos/MysoreMAS08"},
+"url":"URL#4690215"
+},
+{
+"@score":"1",
+"@id":"4690216",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"71/1924","text":"Daniel Peek"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Parallelizing security checks on commodity hardware.","venue":"ASPLOS","pages":"308-318","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/NightingalePCF08","doi":"10.1145/1346281.1346321","ee":"https://doi.org/10.1145/1346281.1346321","url":"https://dblp.org/rec/conf/asplos/NightingalePCF08"},
+"url":"URL#4690216"
+},
+{
+"@score":"1",
+"@id":"4690217",
+"info":{"authors":{"author":[{"@pid":"00/1735","text":"Guilherme Ottoni"},{"@pid":"19/5025","text":"David I. August"}]},"title":"Communication optimizations for global multi-threaded instruction scheduling.","venue":"ASPLOS","pages":"222-232","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/OttoniA08","doi":"10.1145/1346281.1346310","ee":"https://doi.org/10.1145/1346281.1346310","url":"https://dblp.org/rec/conf/asplos/OttoniA08"},
+"url":"URL#4690217"
+},
+{
+"@score":"1",
+"@id":"4690218",
+"info":{"authors":{"author":[{"@pid":"88/5233","text":"Ramya Raghavendra"},{"@pid":"12/6848","text":"Parthasarathy Ranganathan"},{"@pid":"59/3510","text":"Vanish Talwar"},{"@pid":"99/3189","text":"Zhikui Wang"},{"@pid":"00/6373","text":"Xiaoyun Zhu"}]},"title":"No &quot;power&quot; struggles: coordinated multi-level power management for the data center.","venue":"ASPLOS","pages":"48-59","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/RaghavendraRTWZ08","doi":"10.1145/1346281.1346289","ee":"https://doi.org/10.1145/1346281.1346289","url":"https://dblp.org/rec/conf/asplos/RaghavendraRTWZ08"},
+"url":"URL#4690218"
+},
+{
+"@score":"1",
+"@id":"4690219",
+"info":{"authors":{"author":[{"@pid":"80/1422","text":"Kai Shen"},{"@pid":"92/2292","text":"Ming Zhong"},{"@pid":"62/1421","text":"Sandhya Dwarkadas"},{"@pid":"28/3076","text":"Chuanpeng Li"},{"@pid":"99/1798","text":"Christopher Stewart"},{"@pid":"49/4478","text":"Xiao Zhang"}]},"title":"Hardware counter driven on-the-fly request signatures.","venue":"ASPLOS","pages":"189-200","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ShenZDLSZ08","doi":"10.1145/1346281.1346306","ee":"https://doi.org/10.1145/1346281.1346306","url":"https://dblp.org/rec/conf/asplos/ShenZDLSZ08"},
+"url":"URL#4690219"
+},
+{
+"@score":"1",
+"@id":"4690221",
+"info":{"authors":{"author":[{"@pid":"18/1418","text":"Shekhar Srikantaiah"},{"@pid":"k/MahmutTKandemir","text":"Mahmut T. Kandemir"},{"@pid":"i/MaryJaneIrwin","text":"Mary Jane Irwin"}]},"title":"Adaptive set pinning: managing shared caches in chip multiprocessors.","venue":"ASPLOS","pages":"135-144","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SrikantaiahKI08","doi":"10.1145/1346281.1346299","ee":"https://doi.org/10.1145/1346281.1346299","url":"https://dblp.org/rec/conf/asplos/SrikantaiahKI08"},
+"url":"URL#4690221"
+},
+{
+"@score":"1",
+"@id":"4690222",
+"info":{"authors":{"author":[{"@pid":"78/219","text":"M. Aater Suleman"},{"@pid":"60/6934","text":"Moinuddin K. Qureshi"},{"@pid":"p/YaleNPatt","text":"Yale N. Patt"}]},"title":"Feedback-driven threading: power-efficient and high-performance execution of multi-threaded workloads on CMPs.","venue":"ASPLOS","pages":"277-286","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SulemanQP08","doi":"10.1145/1346281.1346317","ee":"https://doi.org/10.1145/1346281.1346317","url":"https://dblp.org/rec/conf/asplos/SulemanQP08"},
+"url":"URL#4690222"
+},
+{
+"@score":"1",
+"@id":"4690223",
+"info":{"authors":{"author":[{"@pid":"85/6323","text":"James Tuck"},{"@pid":"65/4407","text":"Wonsun Ahn"},{"@pid":"95/5263","text":"Luis Ceze"},{"@pid":"t/JosepTorrellas","text":"Josep Torrellas"}]},"title":"SoftSig: software-exposed hardware signatures for code analysis and optimization.","venue":"ASPLOS","pages":"145-156","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/TuckACT08","doi":"10.1145/1346281.1346300","ee":"https://doi.org/10.1145/1346281.1346300","url":"https://dblp.org/rec/conf/asplos/TuckACT08"},
+"url":"URL#4690223"
+},
+{
+"@score":"1",
+"@id":"4690224",
+"info":{"authors":{"author":[{"@pid":"93/4688","text":"Michal Wegiel"},{"@pid":"87/1311","text":"Chandra Krintz"}]},"title":"The mapping collector: virtual memory support for generational, parallel, and concurrent compaction.","venue":"ASPLOS","pages":"91-102","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/WegielK08","doi":"10.1145/1346281.1346294","ee":"https://doi.org/10.1145/1346281.1346294","url":"https://dblp.org/rec/conf/asplos/WegielK08"},
+"url":"URL#4690224"
+},
+{
+"@score":"1",
+"@id":"4690225",
+"info":{"authors":{"author":[{"@pid":"03/4295","text":"Yaron Weinsberg"},{"@pid":"d/DannyDolev","text":"Danny Dolev"},{"@pid":"26/2802","text":"Tal Anker"},{"@pid":"29/6946","text":"Muli Ben-Yehuda"},{"@pid":"159/1483","text":"Pete Wyckoff"}]},"title":"Tapping into the fountain of CPUs: on operating system support for programmable devices.","venue":"ASPLOS","pages":"179-188","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/WeinsbergDABW08","doi":"10.1145/1346281.1346304","ee":"https://doi.org/10.1145/1346281.1346304","url":"https://dblp.org/rec/conf/asplos/WeinsbergDABW08"},
+"url":"URL#4690225"
+},
+{
+"@score":"1",
+"@id":"4690226",
+"info":{"authors":{"author":[{"@pid":"96/5934","text":"Philip M. Wells"},{"@pid":"92/4010","text":"Koushik Chakraborty"},{"@pid":"s/GurindarSSohi","text":"Gurindar S. Sohi"}]},"title":"Adapting to intermittent faults in multicore systems.","venue":"ASPLOS","pages":"255-264","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/WellsCS08","doi":"10.1145/1346281.1346314","ee":"https://doi.org/10.1145/1346281.1346314","url":"https://dblp.org/rec/conf/asplos/WellsCS08"},
+"url":"URL#4690226"
+},
+{
+"@score":"1",
+"@id":"4690227",
+"info":{"authors":{"author":{"@pid":"26/4609","text":"Erik Winfree"}},"title":"Toward molecular programming with DNA.","venue":"ASPLOS","pages":"1","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/Winfree08","doi":"10.1145/1346281.1346282","ee":"https://doi.org/10.1145/1346281.1346282","url":"https://dblp.org/rec/conf/asplos/Winfree08"},
+"url":"URL#4690227"
+},
+{
+"@score":"1",
+"@id":"4797917",
+"info":{"authors":{"author":[{"@pid":"e/SJEggers","text":"Susan J. Eggers"},{"@pid":"l/JamesRLarus","text":"James R. Larus"}]},"title":"Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2008, Seattle, WA, USA, March 1-5, 2008","venue":"ASPLOS","publisher":"ACM","year":"2008","type":"Editorship","key":"conf/asplos/2008","doi":"10.1145/1346281","ee":"https://doi.org/10.1145/1346281","url":"https://dblp.org/rec/conf/asplos/2008"},
+"url":"URL#4797917"
+}
+]
+}
+}
+}

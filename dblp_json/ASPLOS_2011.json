@@ -1,0 +1,236 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/asplos/asplos2011.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"184.28"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"34",
+"@dc":"34",
+"@oc":"34",
+"@id":"39054566",
+"text":":facetid:toc:db/conf/asplos/asplos2011.bht"
+}
+},
+"hits":{
+"@total":"34",
+"@computed":"34",
+"@sent":"34",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4008127",
+"info":{"authors":{"author":[{"@pid":"23/5690","text":"Jacob Burnim"},{"@pid":"n/GeorgeCNecula","text":"George C. Necula"},{"@pid":"04/418","text":"Koushik Sen"}]},"title":"Specifying and checking semantic atomicity for multithreaded programs.","venue":"ASPLOS","pages":"79-90","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/BurnimNS11","doi":"10.1145/1950365.1950377","ee":"https://doi.org/10.1145/1950365.1950377","url":"https://dblp.org/rec/conf/asplos/BurnimNS11"},
+"url":"URL#4008127"
+},
+{
+"@score":"1",
+"@id":"4008129",
+"info":{"authors":{"author":[{"@pid":"23/6529","text":"Jared Casper"},{"@pid":"65/9117","text":"Tayo Oguntebi"},{"@pid":"93/5196","text":"Sungpack Hong"},{"@pid":"53/3628","text":"Nathan Grasso Bronson"},{"@pid":"k/ChristoforosEKozyrakis","text":"Christos Kozyrakis"},{"@pid":"o/KunleOlukotun","text":"Kunle Olukotun"}]},"title":"Hardware acceleration of transactional memory on commodity systems.","venue":"ASPLOS","pages":"27-38","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/CasperOHBKO11","doi":"10.1145/1950365.1950372","ee":"https://doi.org/10.1145/1950365.1950372","url":"https://dblp.org/rec/conf/asplos/CasperOHBKO11"},
+"url":"URL#4008129"
+},
+{
+"@score":"1",
+"@id":"4008130",
+"info":{"authors":{"author":[{"@pid":"02/3308","text":"Vitaly Chipounov"},{"@pid":"35/9257","text":"Volodymyr Kuznetsov"},{"@pid":"c/GeorgeCandea","text":"George Candea"}]},"title":"S2E: a platform for in-vivo multi-path analysis of software systems.","venue":"ASPLOS","pages":"265-278","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ChipounovKC11","doi":"10.1145/1950365.1950396","ee":"https://doi.org/10.1145/1950365.1950396","url":"https://dblp.org/rec/conf/asplos/ChipounovKC11"},
+"url":"URL#4008130"
+},
+{
+"@score":"1",
+"@id":"4008131",
+"info":{"authors":{"author":[{"@pid":"39/3448","text":"Joel Coburn"},{"@pid":"82/3536","text":"Adrian M. Caulfield"},{"@pid":"78/9134","text":"Ameen Akel"},{"@pid":"74/2389","text":"Laura M. Grupp"},{"@pid":"213/9138-1","text":"Rajesh K. Gupta 0001"},{"@pid":"47/4244","text":"Ranjit Jhala"},{"@pid":"97/3886","text":"Steven Swanson"}]},"title":"NV-Heaps: making persistent objects fast and safe with next-generation, non-volatile memories.","venue":"ASPLOS","pages":"105-118","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/CoburnCAGGJS11","doi":"10.1145/1950365.1950380","ee":"https://doi.org/10.1145/1950365.1950380","url":"https://dblp.org/rec/conf/asplos/CoburnCAGGJS11"},
+"url":"URL#4008131"
+},
+{
+"@score":"1",
+"@id":"4008132",
+"info":{"authors":{"author":[{"@pid":"35/2924","text":"Luke Dalessandro"},{"@pid":"15/8375","text":"François Carouge"},{"@pid":"08/6508","text":"Sean White"},{"@pid":"27/5398","text":"Yossi Lev"},{"@pid":"m/MarkMoir","text":"Mark Moir"},{"@pid":"s/MichaelLScott","text":"Michael L. Scott"},{"@pid":"67/6345","text":"Michael F. Spear"}]},"title":"Hybrid NOrec: a case study in the effectiveness of best effort hardware transactional memory.","venue":"ASPLOS","pages":"39-52","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/DalessandroCWLMSS11","doi":"10.1145/1950365.1950373","ee":"https://doi.org/10.1145/1950365.1950373","url":"https://dblp.org/rec/conf/asplos/DalessandroCWLMSS11"},
+"url":"URL#4008132"
+},
+{
+"@score":"1",
+"@id":"4008134",
+"info":{"authors":{"author":[{"@pid":"01/9257","text":"Qingyuan Deng"},{"@pid":"18/389","text":"David Meisner"},{"@pid":"89/3139","text":"Luiz E. Ramos"},{"@pid":"01/1282","text":"Thomas F. Wenisch"},{"@pid":"85/2722","text":"Ricardo Bianchini"}]},"title":"MemScale: active low-power modes for main memory.","venue":"ASPLOS","pages":"225-238","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/DengMRWB11","doi":"10.1145/1950365.1950392","ee":"https://doi.org/10.1145/1950365.1950392","url":"https://dblp.org/rec/conf/asplos/DengMRWB11"},
+"url":"URL#4008134"
+},
+{
+"@score":"1",
+"@id":"4008135",
+"info":{"authors":{"author":[{"@pid":"83/3984","text":"Joseph Devietti"},{"@pid":"35/9256","text":"Jacob Nelson"},{"@pid":"90/2307","text":"Tom Bergan"},{"@pid":"95/5263","text":"Luis Ceze"},{"@pid":"g/DanGrossman","text":"Dan Grossman"}]},"title":"RCDC: a relaxed consistency deterministic computer.","venue":"ASPLOS","pages":"67-78","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/DeviettiNBCG11","doi":"10.1145/1950365.1950376","ee":"https://doi.org/10.1145/1950365.1950376","url":"https://dblp.org/rec/conf/asplos/DeviettiNBCG11"},
+"url":"URL#4008135"
+},
+{
+"@score":"1",
+"@id":"4008138",
+"info":{"authors":{"author":[{"@pid":"00/809","text":"Hadi Esmaeilzadeh"},{"@pid":"03/8334","text":"Ting Cao"},{"@pid":"13/1520-21","text":"Xi Yang 0021"},{"@pid":"b/StephenMBlackburn","text":"Stephen M. Blackburn"},{"@pid":"m/KSMcKinley","text":"Kathryn S. McKinley"}]},"title":"Looking back on the language and hardware revolutions: measured power, performance, and scaling.","venue":"ASPLOS","pages":"319-332","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/EsmaeilzadehCXBM11","doi":"10.1145/1950365.1950402","ee":"https://doi.org/10.1145/1950365.1950402","url":"https://dblp.org/rec/conf/asplos/EsmaeilzadehCXBM11"},
+"url":"URL#4008138"
+},
+{
+"@score":"1",
+"@id":"4008139",
+"info":{"authors":{"author":[{"@pid":"52/9256","text":"Sardar M. Farhad"},{"@pid":"34/7542-1","text":"Yousun Ko 0001"},{"@pid":"50/2220","text":"Bernd Burgstaller"},{"@pid":"35/2834","text":"Bernhard Scholz"}]},"title":"Orchestration by approximation: mapping stream programs onto multicore architectures.","venue":"ASPLOS","pages":"357-368","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/FarhadKBS11","doi":"10.1145/1950365.1950406","ee":"https://doi.org/10.1145/1950365.1950406","url":"https://dblp.org/rec/conf/asplos/FarhadKBS11"},
+"url":"URL#4008139"
+},
+{
+"@score":"1",
+"@id":"4008141",
+"info":{"authors":{"author":[{"@pid":"72/5851","text":"Qi Gao"},{"@pid":"35/4073-5","text":"Wenbin Zhang 0005"},{"@pid":"08/9135","text":"Zhezhe Chen"},{"@pid":"47/3537","text":"Mai Zheng"},{"@pid":"31/3488","text":"Feng Qin"}]},"title":"2ndStrike: toward manifesting hidden concurrency typestate bugs.","venue":"ASPLOS","pages":"239-250","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/GaoZCZQ11","doi":"10.1145/1950365.1950394","ee":"https://doi.org/10.1145/1950365.1950394","url":"https://dblp.org/rec/conf/asplos/GaoZCZQ11"},
+"url":"URL#4008141"
+},
+{
+"@score":"1",
+"@id":"4008144",
+"info":{"authors":{"author":[{"@pid":"26/3520","text":"Atif Hashmi"},{"@pid":"41/7934","text":"Andrew Nere"},{"@pid":"54/9256","text":"James Jamal Thomas"},{"@pid":"02/1732","text":"Mikko H. Lipasti"}]},"title":"A case for neuromorphic ISAs.","venue":"ASPLOS","pages":"145-158","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HashmiNTL11","doi":"10.1145/1950365.1950385","ee":"https://doi.org/10.1145/1950365.1950385","url":"https://dblp.org/rec/conf/asplos/HashmiNTL11"},
+"url":"URL#4008144"
+},
+{
+"@score":"1",
+"@id":"4008145",
+"info":{"authors":{"author":[{"@pid":"36/5111","text":"Hiroshige Hayashizaki"},{"@pid":"w/PengWu1","text":"Peng Wu 0001"},{"@pid":"39/4891","text":"Hiroshi Inoue"},{"@pid":"21/1604","text":"Mauricio J. Serrano"},{"@pid":"57/6609","text":"Toshio Nakatani"}]},"title":"Improving the performance of trace-based systems by false loop filtering.","venue":"ASPLOS","pages":"405-418","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HayashizakiWISN11","doi":"10.1145/1950365.1950412","ee":"https://doi.org/10.1145/1950365.1950412","url":"https://dblp.org/rec/conf/asplos/HayashizakiWISN11"},
+"url":"URL#4008145"
+},
+{
+"@score":"1",
+"@id":"4008146",
+"info":{"authors":{"author":[{"@pid":"15/8891","text":"Giang Hoang"},{"@pid":"f/RBFindler","text":"Robby Bruce Findler"},{"@pid":"97/3763","text":"Russ Joseph"}]},"title":"Exploring circuit timing-aware language and compilation.","venue":"ASPLOS","pages":"345-356","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HoangFJ11","doi":"10.1145/1950365.1950405","ee":"https://doi.org/10.1145/1950365.1950405","url":"https://dblp.org/rec/conf/asplos/HoangFJ11"},
+"url":"URL#4008146"
+},
+{
+"@score":"1",
+"@id":"4008147",
+"info":{"authors":{"author":[{"@pid":"h/HenryHoffmann","text":"Henry Hoffmann"},{"@pid":"37/1475","text":"Stelios Sidiroglou"},{"@pid":"07/3119","text":"Michael Carbin"},{"@pid":"00/4734","text":"Sasa Misailovic"},{"@pid":"a/AAgarwal","text":"Anant Agarwal"},{"@pid":"r/MartinCRinard","text":"Martin C. Rinard"}]},"title":"Dynamic knobs for responsive power-aware computing.","venue":"ASPLOS","pages":"199-212","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HoffmannSCMAR11","doi":"10.1145/1950365.1950390","ee":"https://doi.org/10.1145/1950365.1950390","url":"https://dblp.org/rec/conf/asplos/HoffmannSCMAR11"},
+"url":"URL#4008147"
+},
+{
+"@score":"1",
+"@id":"4008148",
+"info":{"authors":{"author":[{"@pid":"80/77","text":"Owen S. Hofmann"},{"@pid":"98/9256","text":"Alan M. Dunn"},{"@pid":"07/9257","text":"Sangman Kim"},{"@pid":"r/IndrajitRoy","text":"Indrajit Roy 0001"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"Ensuring operating system kernel integrity with OSck.","venue":"ASPLOS","pages":"279-290","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HofmannDKRW11","doi":"10.1145/1950365.1950398","ee":"https://doi.org/10.1145/1950365.1950398","url":"https://dblp.org/rec/conf/asplos/HofmannDKRW11"},
+"url":"URL#4008148"
+},
+{
+"@score":"1",
+"@id":"4008149",
+"info":{"authors":{"author":[{"@pid":"46/17","text":"Amir Hormati"},{"@pid":"44/9256","text":"Mehrzad Samadi"},{"@pid":"13/6266","text":"Mark Woh"},{"@pid":"m/TrevorNMudge","text":"Trevor N. Mudge"},{"@pid":"m/SAMahlke","text":"Scott A. Mahlke"}]},"title":"Sponge: portable stream programming on graphics engines.","venue":"ASPLOS","pages":"381-392","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/HormatiSWMM11","doi":"10.1145/1950365.1950409","ee":"https://doi.org/10.1145/1950365.1950409","url":"https://dblp.org/rec/conf/asplos/HormatiSWMM11"},
+"url":"URL#4008149"
+},
+{
+"@score":"1",
+"@id":"4008150",
+"info":{"authors":{"author":[{"@pid":"68/8165-1","text":"Md. Kamruzzaman 0001"},{"@pid":"97/3886","text":"Steven Swanson"},{"@pid":"t/DeanMTullsen","text":"Dean M. Tullsen"}]},"title":"Inter-core prefetching for multicore processors using migrating helper threads.","venue":"ASPLOS","pages":"393-404","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KamruzzamanST11","doi":"10.1145/1950365.1950411","ee":"https://doi.org/10.1145/1950365.1950411","url":"https://dblp.org/rec/conf/asplos/KamruzzamanST11"},
+"url":"URL#4008150"
+},
+{
+"@score":"1",
+"@id":"4008151",
+"info":{"authors":{"author":[{"@pid":"23/7433","text":"Emmanouil Koukoumidis"},{"@pid":"90/2955","text":"Dimitrios Lymberopoulos"},{"@pid":"60/4729","text":"Karin Strauss"},{"@pid":"03/2134-1","text":"Jie Liu 0001"},{"@pid":"b/DougBurger","text":"Doug Burger"}]},"title":"Pocket cloudlets.","venue":"ASPLOS","pages":"171-184","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/KoukoumidisLSLB11","doi":"10.1145/1950365.1950387","ee":"https://doi.org/10.1145/1950365.1950387","url":"https://dblp.org/rec/conf/asplos/KoukoumidisLSLB11"},
+"url":"URL#4008151"
+},
+{
+"@score":"1",
+"@id":"4008152",
+"info":{"authors":{"author":{"@pid":"l/JamesRLarus","text":"James R. Larus"}},"title":"The cloud will change everything.","venue":"ASPLOS","pages":"1-2","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/Larus11","doi":"10.1145/1950365.1950367","ee":"https://doi.org/10.1145/1950365.1950367","url":"https://dblp.org/rec/conf/asplos/Larus11"},
+"url":"URL#4008152"
+},
+{
+"@score":"1",
+"@id":"4008153",
+"info":{"authors":{"author":[{"@pid":"80/1141","text":"Song Liu"},{"@pid":"91/5344","text":"Karthik Pattabiraman"},{"@pid":"m/ThomasMoscibroda","text":"Thomas Moscibroda"},{"@pid":"z/BGZorn","text":"Benjamin G. Zorn"}]},"title":"Flikker: saving DRAM refresh-power through critical data partitioning.","venue":"ASPLOS","pages":"213-224","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/LiuPMZ11","doi":"10.1145/1950365.1950391","ee":"https://doi.org/10.1145/1950365.1950391","url":"https://dblp.org/rec/conf/asplos/LiuPMZ11"},
+"url":"URL#4008153"
+},
+{
+"@score":"1",
+"@id":"4008156",
+"info":{"authors":{"author":[{"@pid":"48/4701","text":"Donald Nguyen"},{"@pid":"71/5735","text":"Keshav Pingali"}]},"title":"Synthesizing concurrent schedulers for irregular algorithms.","venue":"ASPLOS","pages":"333-344","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/NguyenP11","doi":"10.1145/1950365.1950404","ee":"https://doi.org/10.1145/1950365.1950404","url":"https://dblp.org/rec/conf/asplos/NguyenP11"},
+"url":"URL#4008156"
+},
+{
+"@score":"1",
+"@id":"4008159",
+"info":{"authors":{"author":[{"@pid":"31/6732","text":"Nicolas Palix"},{"@pid":"83/6740-1","text":"Gaël Thomas 0001"},{"@pid":"96/893-2","text":"Suman Saha 0002"},{"@pid":"43/7012","text":"Christophe Calvès"},{"@pid":"l/JuliaLLawall","text":"Julia Lawall"},{"@pid":"27/4405","text":"Gilles Muller"}]},"title":"Faults in linux: ten years later.","venue":"ASPLOS","pages":"305-318","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/PalixTSCLM11","doi":"10.1145/1950365.1950401","ee":"https://doi.org/10.1145/1950365.1950401","url":"https://dblp.org/rec/conf/asplos/PalixTSCLM11"},
+"url":"URL#4008159"
+},
+{
+"@score":"1",
+"@id":"4008160",
+"info":{"authors":{"author":[{"@pid":"08/4732","text":"Donald E. Porter"},{"@pid":"06/2219","text":"Silas Boyd-Wickizer"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"09/1994","text":"Reuben Olinsky"},{"@pid":"58/3811","text":"Galen C. Hunt"}]},"title":"Rethinking the library OS from the top down.","venue":"ASPLOS","pages":"291-304","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/PorterBHOH11","doi":"10.1145/1950365.1950399","ee":"https://doi.org/10.1145/1950365.1950399","url":"https://dblp.org/rec/conf/asplos/PorterBHOH11"},
+"url":"URL#4008160"
+},
+{
+"@score":"1",
+"@id":"4008161",
+"info":{"authors":{"author":[{"@pid":"08/5873","text":"Benjamin Ransford"},{"@pid":"81/3501","text":"Jacob Sorber"},{"@pid":"f/KevinFu","text":"Kevin Fu"}]},"title":"Mementos: system support for long-running computation on RFID-scale devices.","venue":"ASPLOS","pages":"159-170","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/RansfordSF11","doi":"10.1145/1950365.1950386","ee":"https://doi.org/10.1145/1950365.1950386","url":"https://dblp.org/rec/conf/asplos/RansfordSF11"},
+"url":"URL#4008161"
+},
+{
+"@score":"1",
+"@id":"4008162",
+"info":{"authors":{"author":[{"@pid":"91/7451","text":"Leonid Ryzhyk"},{"@pid":"42/2813","text":"John Keys"},{"@pid":"04/9257","text":"Balachandra Mirla"},{"@pid":"83/5750","text":"Arun Raghunath"},{"@pid":"47/9256","text":"Mona Vij"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"}]},"title":"Improved device driver reliability through hardware verification reuse.","venue":"ASPLOS","pages":"133-144","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/RyzhykKMRVH11","doi":"10.1145/1950365.1950383","ee":"https://doi.org/10.1145/1950365.1950383","url":"https://dblp.org/rec/conf/asplos/RyzhykKMRVH11"},
+"url":"URL#4008162"
+},
+{
+"@score":"1",
+"@id":"4008164",
+"info":{"authors":{"author":[{"@pid":"08/7451","text":"Adrian Schüpbach"},{"@pid":"53/6957","text":"Andrew Baumann"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"},{"@pid":"43/3917","text":"Simon Peter 0001"}]},"title":"A declarative language approach to device configuration.","venue":"ASPLOS","pages":"119-132","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SchupbachBRP11","doi":"10.1145/1950365.1950382","ee":"https://doi.org/10.1145/1950365.1950382","url":"https://dblp.org/rec/conf/asplos/SchupbachBRP11"},
+"url":"URL#4008164"
+},
+{
+"@score":"1",
+"@id":"4008165",
+"info":{"authors":{"author":[{"@pid":"06/398","text":"Navin Sharma"},{"@pid":"15/9256","text":"Sean Kenneth Barker"},{"@pid":"28/760-1","text":"David E. Irwin 0001"},{"@pid":"s/PrashantJShenoy","text":"Prashant J. Shenoy"}]},"title":"Blink: managing server clusters on intermittent power.","venue":"ASPLOS","pages":"185-198","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SharmaBIS11","doi":"10.1145/1950365.1950389","ee":"https://doi.org/10.1145/1950365.1950389","url":"https://dblp.org/rec/conf/asplos/SharmaBIS11"},
+"url":"URL#4008165"
+},
+{
+"@score":"1",
+"@id":"4008166",
+"info":{"authors":{"author":[{"@pid":"51/8166","text":"Abhayendra Singh"},{"@pid":"92/5876","text":"Daniel Marino"},{"@pid":"27/3820","text":"Satish Narayanasamy"},{"@pid":"93/4679","text":"Todd D. Millstein"},{"@pid":"95/6578","text":"Madanlal Musuvathi"}]},"title":"Efficient processor support for DRFx, a memory model with exceptions.","venue":"ASPLOS","pages":"53-66","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/SinghMNMM11","doi":"10.1145/1950365.1950375","ee":"https://doi.org/10.1145/1950365.1950375","url":"https://dblp.org/rec/conf/asplos/SinghMNMM11"},
+"url":"URL#4008166"
+},
+{
+"@score":"1",
+"@id":"4008171",
+"info":{"authors":{"author":[{"@pid":"52/1896","text":"Kaushik Veeraraghavan"},{"@pid":"90/4053","text":"Dongyoon Lee"},{"@pid":"34/7934","text":"Benjamin Wester"},{"@pid":"59/9256-2","text":"Jessica Ouyang 0002"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"},{"@pid":"14/85","text":"Jason Flinn"},{"@pid":"27/3820","text":"Satish Narayanasamy"}]},"title":"DoublePlay: parallelizing sequential logging and replay.","venue":"ASPLOS","pages":"15-26","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/VeeraraghavanLWOCFN11","doi":"10.1145/1950365.1950370","ee":"https://doi.org/10.1145/1950365.1950370","url":"https://dblp.org/rec/conf/asplos/VeeraraghavanLWOCFN11"},
+"url":"URL#4008171"
+},
+{
+"@score":"1",
+"@id":"4008172",
+"info":{"authors":{"author":[{"@pid":"26/1498","text":"Haris Volos 0001"},{"@pid":"67/7550","text":"Andres Jaan Tack"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"}]},"title":"Mnemosyne: lightweight persistent memory.","venue":"ASPLOS","pages":"91-104","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/VolosTS11","doi":"10.1145/1950365.1950379","ee":"https://doi.org/10.1145/1950365.1950379","url":"https://dblp.org/rec/conf/asplos/VolosTS11"},
+"url":"URL#4008172"
+},
+{
+"@score":"1",
+"@id":"4008173",
+"info":{"authors":{"author":[{"@pid":"230/9043-4","text":"Ding Yuan 0004"},{"@pid":"15/2171","text":"Jing Zheng"},{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"s/StefanSavage","text":"Stefan Savage"}]},"title":"Improving software diagnosability via log enhancement.","venue":"ASPLOS","pages":"3-14","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/YuanZPZS11","doi":"10.1145/1950365.1950369","ee":"https://doi.org/10.1145/1950365.1950369","url":"https://dblp.org/rec/conf/asplos/YuanZPZS11"},
+"url":"URL#4008173"
+},
+{
+"@score":"1",
+"@id":"4008174",
+"info":{"authors":{"author":[{"@pid":"93/1040","text":"Eddy Z. Zhang"},{"@pid":"41/6781","text":"Yunlian Jiang"},{"@pid":"06/7062","text":"Ziyu Guo"},{"@pid":"32/2509","text":"Kai Tian"},{"@pid":"36/4172","text":"Xipeng Shen"}]},"title":"On-the-fly elimination of dynamic irregularities for GPU computing.","venue":"ASPLOS","pages":"369-380","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZhangJGTS11","doi":"10.1145/1950365.1950408","ee":"https://doi.org/10.1145/1950365.1950408","url":"https://dblp.org/rec/conf/asplos/ZhangJGTS11"},
+"url":"URL#4008174"
+},
+{
+"@score":"1",
+"@id":"4008175",
+"info":{"authors":{"author":[{"@pid":"10/4661-22","text":"Wei Zhang 0022"},{"@pid":"94/2026","text":"Junghee Lim"},{"@pid":"53/9256","text":"Ramya Olichandran"},{"@pid":"94/9256","text":"Joel Scherpelz"},{"@pid":"73/8636","text":"Guoliang Jin"},{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"r/TWReps","text":"Thomas W. Reps"}]},"title":"ConSeq: detecting concurrency bugs through sequential errors.","venue":"ASPLOS","pages":"251-264","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/asplos/ZhangLOSJLR11","doi":"10.1145/1950365.1950395","ee":"https://doi.org/10.1145/1950365.1950395","url":"https://dblp.org/rec/conf/asplos/ZhangLOSJLR11"},
+"url":"URL#4008175"
+},
+{
+"@score":"1",
+"@id":"4138460",
+"info":{"authors":{"author":[{"@pid":"g/RajivGupta","text":"Rajiv Gupta 0001"},{"@pid":"65/4120","text":"Todd C. Mowry"}]},"title":"Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2011, Newport Beach, CA, USA, March 5-11, 2011","venue":"ASPLOS","publisher":"ACM","year":"2011","type":"Editorship","key":"conf/asplos/2011","doi":"10.1145/1950365","ee":"https://doi.org/10.1145/1950365","url":"https://dblp.org/rec/conf/asplos/2011"},
+"url":"URL#4138460"
+}
+]
+}
+}
+}

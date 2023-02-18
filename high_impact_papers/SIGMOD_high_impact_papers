@@ -1,0 +1,186 @@
+Paper: Conjunctive Queries with Comparisons.	Year: 2022	Citation: 109	Citation per year: 109.0
+Paper: Adaptive Threshold Sampling.	Year: 2022	Citation: 534	Citation per year: 534.0
+Paper: SharPer: Sharding Permissioned Blockchains Over Network Clusters.	Year: 2021	Citation: 71	Citation per year: 35.5
+Paper: Bao: Making Learned Query Optimization Practical.	Year: 2021	Citation: 71	Citation per year: 35.5
+Paper: Deep Data Integration.	Year: 2021	Citation: 69	Citation per year: 34.5
+Paper: ALEX: An Updatable Adaptive Learned Index.	Year: 2020	Citation: 180	Citation per year: 60.0
+Paper: Learning Multi-Dimensional Indexes.	Year: 2020	Citation: 129	Citation per year: 43.0
+Paper: CockroachDB: The Resilient Geo-Distributed SQL Database.	Year: 2020	Citation: 114	Citation per year: 38.0
+Paper: vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases.	Year: 2019	Citation: 129	Citation per year: 32.25
+Paper: Designing Fair Ranking Schemes.	Year: 2019	Citation: 125	Citation per year: 31.25
+Paper: Towards Scaling Blockchain Systems via Sharding.	Year: 2019	Citation: 322	Citation per year: 80.5
+Paper: FITing-Tree: A Data-aware Index Structure.	Year: 2019	Citation: 127	Citation per year: 31.75
+Paper: The Responsibility Challenge for Data.	Year: 2019	Citation: 442	Citation per year: 110.5
+Paper: Interventional Fairness: Causal Database Repair for Algorithmic Fairness.	Year: 2019	Citation: 133	Citation per year: 33.25
+Paper: Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric.	Year: 2019	Citation: 127	Citation per year: 31.75
+Paper: An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning.	Year: 2019	Citation: 225	Citation per year: 56.25
+Paper: G-CORE: A Core for Future Graph Query Languages.	Year: 2018	Citation: 167	Citation per year: 33.4
+Paper: Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark.	Year: 2018	Citation: 172	Citation per year: 34.4
+Paper: Privacy at Scale: Local Differential Privacy in Practice.	Year: 2018	Citation: 177	Citation per year: 35.4
+Paper: Cypher: An Evolving Query Language for Property Graphs.	Year: 2018	Citation: 424	Citation per year: 84.8
+Paper: The Case for Learned Index Structures.	Year: 2018	Citation: 797	Citation per year: 159.4
+Paper: Query-based Workload Forecasting for Self-Driving Database Management Systems.	Year: 2018	Citation: 185	Citation per year: 37.0
+Paper: Deep Learning for Entity Matching: A Design Space Exploration.	Year: 2018	Citation: 454	Citation per year: 90.8
+Paper: Proceedings of the 2018 International Conference on Management of Data, SIGMOD Conference 2018, Houston, TX, USA, June 10-15, 2018	Year: 2018	Citation: 177	Citation per year: 35.4
+Paper: Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics.	Year: 2017	Citation: 207	Citation per year: 34.5
+Paper: Automatic Database Management System Tuning Through Large-scale Machine Learning.	Year: 2017	Citation: 497	Citation per year: 82.83333333333333
+Paper: Monkey: Optimal Navigable Key-Value Store.	Year: 2017	Citation: 198	Citation per year: 33.0
+Paper: BLOCKBENCH: A Framework for Analyzing Private Blockchains.	Year: 2017	Citation: 910	Citation per year: 151.66666666666666
+Paper: Graph Data Mining with Arabesque.	Year: 2017	Citation: 220	Citation per year: 36.666666666666664
+Paper: Heterogeneity-aware Distributed Parameter Servers.	Year: 2017	Citation: 186	Citation per year: 31.0
+Paper: Data Management Challenges in Production Machine Learning.	Year: 2017	Citation: 180	Citation per year: 30.0
+Paper: Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases.	Year: 2017	Citation: 199	Citation per year: 33.166666666666664
+Paper: Design and Implementation of the LogicBlox System.	Year: 2015	Citation: 270	Citation per year: 33.75
+Paper: Spark SQL: Relational Data Processing in Spark.	Year: 2015	Citation: 1617	Citation per year: 202.125
+Paper: KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing.	Year: 2015	Citation: 334	Citation per year: 41.75
+Paper: The LDBC Social Network Benchmark: Interactive Workload.	Year: 2015	Citation: 289	Citation per year: 36.125
+Paper: DBSCAN Revisited: Mis-Claim, Un-Fixability, and Approximation.	Year: 2015	Citation: 257	Citation per year: 32.125
+Paper: Overview of Data Exploration Techniques.	Year: 2015	Citation: 293	Citation per year: 36.625
+Paper: Twitter Heron: Stream Processing at Scale.	Year: 2015	Citation: 700	Citation per year: 87.5
+Paper: Mining Quality Phrases from Massive Text Corpora.	Year: 2015	Citation: 247	Citation per year: 30.875
+Paper: k-Shape: Efficient and Accurate Clustering of Time Series.	Year: 2015	Citation: 703	Citation per year: 87.875
+Paper: Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications.	Year: 2015	Citation: 265	Citation per year: 33.125
+Paper: Influence Maximization in Near-Linear Time: A Martingale Approach.	Year: 2015	Citation: 684	Citation per year: 85.5
+Paper: Local search of communities in large graphs.	Year: 2014	Citation: 278	Citation per year: 30.88888888888889
+Paper: Corleone: hands-off crowdsourcing for entity matching.	Year: 2014	Citation: 279	Citation per year: 31.0
+Paper: Querying k-truss community in large and dynamic graphs.	Year: 2014	Citation: 396	Citation per year: 44.0
+Paper: Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age.	Year: 2014	Citation: 280	Citation per year: 31.11111111111111
+Paper: Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation.	Year: 2014	Citation: 470	Citation per year: 52.22222222222222
+Paper: HYDRA: large-scale social identity linkage via heterogeneous behavior modeling.	Year: 2014	Citation: 297	Citation per year: 33.0
+Paper: Influence maximization: near-optimal time complexity meets practical efficiency.	Year: 2014	Citation: 802	Citation per year: 89.11111111111111
+Paper: Storm@twitter.	Year: 2014	Citation: 1264	Citation per year: 140.44444444444446
+Paper: PrivBayes: private data release via bayesian networks.	Year: 2014	Citation: 494	Citation per year: 54.888888888888886
+Paper: Natural language question answering over RDF: a graph data driven approach.	Year: 2014	Citation: 309	Citation per year: 34.333333333333336
+Paper: Fast exact shortest-path distance queries on large networks by pruned landmark labeling.	Year: 2013	Citation: 391	Citation per year: 39.1
+Paper: LinkBench: a database benchmark based on the Facebook social graph.	Year: 2013	Citation: 354	Citation per year: 35.4
+Paper: Machine learning for big data.	Year: 2013	Citation: 711	Citation per year: 71.1
+Paper: NADEEF: a commodity data cleaning system.	Year: 2013	Citation: 360	Citation per year: 36.0
+Paper: Integrating scale out and fault tolerance in stream processing using operator state management.	Year: 2013	Citation: 435	Citation per year: 43.5
+Paper: BigBench: towards an industry standard benchmark for big data analytics.	Year: 2013	Citation: 464	Citation per year: 46.4
+Paper: Turboiso: towards ultrafast and robust subgraph isomorphism search in large graph databases.	Year: 2013	Citation: 392	Citation per year: 39.2
+Paper: Trinity: a distributed graph engine on a memory cloud.	Year: 2013	Citation: 590	Citation per year: 59.0
+Paper: Inter-media hashing for large-scale retrieval from heterogeneous data sources.	Year: 2013	Citation: 555	Citation per year: 55.5
+Paper: Shark: SQL and rich analytics at scale.	Year: 2013	Citation: 631	Citation per year: 63.1
+Paper: SkewTune: mitigating skew in mapreduce applications.	Year: 2012	Citation: 586	Citation per year: 53.27272727272727
+Paper: Skew-aware automatic database partitioning in shared-nothing, parallel OLTP systems.	Year: 2012	Citation: 369	Citation per year: 33.54545454545455
+Paper: Calvin: fast distributed transactions for partitioned database systems.	Year: 2012	Citation: 651	Citation per year: 59.18181818181818
+Paper: Probase: a probabilistic taxonomy for text understanding.	Year: 2012	Citation: 929	Citation per year: 84.45454545454545
+Paper: A model-based approach to attributed graph clustering.	Year: 2012	Citation: 387	Citation per year: 35.18181818181818
+Paper: EmptyHeaded: A Relational Engine for Graph Processing.	Year: 2016	Citation: 231	Citation per year: 33.0
+Paper: Efficient Subgraph Matching by Postponing Cartesian Products.	Year: 2016	Citation: 227	Citation per year: 32.42857142857143
+Paper: ReproZip: Computational Reproducibility With Ease.	Year: 2016	Citation: 247	Citation per year: 35.285714285714285
+Paper: Data Cleaning: Overview and Emerging Challenges.	Year: 2016	Citation: 388	Citation per year: 55.42857142857143
+Paper: Constance: An Intelligent Data Lake System.	Year: 2016	Citation: 251	Citation per year: 35.857142857142854
+Paper: Stop-and-Stare: Optimal Sampling Algorithms for Viral Marketing in Billion-scale Networks.	Year: 2016	Citation: 347	Citation per year: 49.57142857142857
+Paper: FPTree: A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory.	Year: 2016	Citation: 310	Citation per year: 44.285714285714285
+Paper: Simba: Efficient In-Memory Spatial Analytics.	Year: 2016	Citation: 293	Citation per year: 41.857142857142854
+Paper: TrustedDB: a trusted hardware based database with privacy and data confidentiality.	Year: 2011	Citation: 399	Citation per year: 33.25
+Paper: Apache hadoop goes realtime at Facebook.	Year: 2011	Citation: 675	Citation per year: 56.25
+Paper: Collective spatial keyword querying.	Year: 2011	Citation: 427	Citation per year: 35.583333333333336
+Paper: CrowdDB: answering queries with crowdsourcing.	Year: 2011	Citation: 836	Citation per year: 69.66666666666667
+Paper: No free lunch in data privacy.	Year: 2011	Citation: 699	Citation per year: 58.25
+Paper: Processing theta-joins using MapReduce.	Year: 2011	Citation: 372	Citation per year: 31.0
+Paper: A comparison of join algorithms for log processing in MaPreduce.	Year: 2010	Citation: 636	Citation per year: 48.92307692307692
+Paper: Overview of sciDB: large scale array storage, processing and analysis.	Year: 2010	Citation: 503	Citation per year: 38.69230769230769
+Paper: K-isomorphism: privacy preserving network publication against structural attacks.	Year: 2010	Citation: 447	Citation per year: 34.38461538461539
+Paper: FAST: fast architecture sensitive tree search on modern CPUs and GPUs.	Year: 2010	Citation: 401	Citation per year: 30.846153846153847
+Paper: Pregel: a system for large-scale graph processing.	Year: 2010	Citation: 4915	Citation per year: 378.0769230769231
+Paper: TwitterMonitor: trend detection over the twitter stream.	Year: 2010	Citation: 1203	Citation per year: 92.53846153846153
+Paper: Differentially private aggregation of distributed time-series with transformation and encryption.	Year: 2010	Citation: 620	Citation per year: 47.69230769230769
+Paper: Information theory for data management.	Year: 2010	Citation: 1106	Citation per year: 85.07692307692308
+Paper: Data warehousing and analytics infrastructure at facebook.	Year: 2010	Citation: 581	Citation per year: 44.69230769230769
+Paper: Efficient parallel set-similarity joins using MapReduce.	Year: 2010	Citation: 673	Citation per year: 51.76923076923077
+Paper: Privacy integrated queries: an extensible platform for privacy-preserving data analysis.	Year: 2009	Citation: 1530	Citation per year: 109.28571428571429
+Paper: A comparison of approaches to large-scale data analysis.	Year: 2009	Citation: 1571	Citation per year: 112.21428571428571
+Paper: A common database approach for OLTP and OLAP using an in-memory column database.	Year: 2009	Citation: 558	Citation per year: 39.857142857142854
+Paper: Secure kNN computation on encrypted databases.	Year: 2009	Citation: 972	Citation per year: 69.42857142857143
+Paper: Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2009, Providence, Rhode Island, USA, June 29 - July 2, 2009	Year: 2009	Citation: 558	Citation per year: 39.857142857142854
+Paper: Column-stores vs. row-stores: how different are they really?	Year: 2008	Citation: 833	Citation per year: 55.53333333333333
+Paper: Efficient pattern matching over event streams.	Year: 2008	Citation: 566	Citation per year: 37.733333333333334
+Paper: Freebase: a collaboratively created graph database for structuring human knowledge.	Year: 2008	Citation: 5249	Citation per year: 349.93333333333334
+Paper: Provenance and scientific workflows: challenges and opportunities.	Year: 2008	Citation: 899	Citation per year: 59.93333333333333
+Paper: SPADE: the system s declarative stream processing engine.	Year: 2008	Citation: 635	Citation per year: 42.333333333333336
+Paper: Private queries in location based services: anonymizers are not necessary.	Year: 2008	Citation: 1031	Citation per year: 68.73333333333333
+Paper: OLTP through the looking glass, and what we found there.	Year: 2008	Citation: 451	Citation per year: 30.066666666666666
+Paper: Graphs-at-a-time: query language and access methods for graph databases.	Year: 2008	Citation: 529	Citation per year: 35.266666666666666
+Paper: Relational joins on graphics processors.	Year: 2008	Citation: 489	Citation per year: 32.6
+Paper: A case for flash memory ssd in enterprise database applications.	Year: 2008	Citation: 466	Citation per year: 31.066666666666666
+Paper: EASE: an effective 3-in-1 keyword search method for unstructured, semi-structured and structured data.	Year: 2008	Citation: 583	Citation per year: 38.86666666666667
+Paper: Towards identity anonymization on graphs.	Year: 2008	Citation: 994	Citation per year: 66.26666666666667
+Paper: Pig latin: a not-so-foreign language for data processing.	Year: 2008	Citation: 2624	Citation per year: 174.93333333333334
+Paper: Efficient aggregation for graph summarization.	Year: 2008	Citation: 562	Citation per year: 37.46666666666667
+Paper: Provenance in databases.	Year: 2007	Citation: 766	Citation per year: 47.875
+Paper: BLINKS: ranked keyword searches on graphs.	Year: 2007	Citation: 713	Citation per year: 44.5625
+Paper: Trajectory clustering: a partition-and-group framework.	Year: 2007	Citation: 1901	Citation per year: 118.8125
+Paper: Design of flash-based DBMS: an in-page logging approach.	Year: 2007	Citation: 509	Citation per year: 31.8125
+Paper: M-invariance: towards privacy preserving re-publication of dynamic datasets.	Year: 2007	Citation: 682	Citation per year: 42.625
+Paper: Map-reduce-merge: simplified relational data processing on large clusters.	Year: 2007	Citation: 1173	Citation per year: 73.3125
+Paper: Integrating compression and execution in column-oriented database systems.	Year: 2006	Citation: 862	Citation per year: 50.705882352941174
+Paper: VisTrails: visualization meets data management.	Year: 2006	Citation: 704	Citation per year: 41.411764705882355
+Paper: Finding k-dominant skylines in high dimensional space.	Year: 2006	Citation: 592	Citation per year: 34.8235294117647
+Paper: GPUTeraSort: high performance graphics co-processor sorting for large database management.	Year: 2006	Citation: 621	Citation per year: 36.529411764705884
+Paper: Dynamic authenticated index structures for outsourced databases.	Year: 2006	Citation: 543	Citation per year: 31.941176470588236
+Paper: Effective keyword search in relational databases.	Year: 2006	Citation: 534	Citation per year: 31.41176470588235
+Paper: LINQ: reconciling object, relations and XML in the .NET framework.	Year: 2006	Citation: 532	Citation per year: 31.294117647058822
+Paper: High-performance complex event processing over streams.	Year: 2006	Citation: 1218	Citation per year: 71.6470588235294
+Paper: Personalized privacy preservation.	Year: 2006	Citation: 804	Citation per year: 47.294117647058826
+Paper: Schema and ontology matching with COMA++.	Year: 2005	Citation: 962	Citation per year: 53.44444444444444
+Paper: A Cost-Based Model and Effective Heuristic for Repairing Constraints by Value Modification.	Year: 2005	Citation: 510	Citation per year: 28.333333333333332
+Paper: Robust and Fast Similarity Search for Moving Object Trajectories.	Year: 2005	Citation: 1539	Citation per year: 85.5
+Paper: Reference Reconciliation in Complex Information Spaces.	Year: 2005	Citation: 763	Citation per year: 42.388888888888886
+Paper: Deriving Private Information from Randomized Data.	Year: 2005	Citation: 582	Citation per year: 32.333333333333336
+Paper: Incognito: Efficient Full-Domain K-Anonymity.	Year: 2005	Citation: 1679	Citation per year: 93.27777777777777
+Paper: Efficient Keyword Search for Smallest LCAs in XML Databases.	Year: 2005	Citation: 759	Citation per year: 42.166666666666664
+Paper: Order-Preserving Encryption for Numeric Data.	Year: 2004	Citation: 1743	Citation per year: 91.73684210526316
+Paper: Integrating Vertical and Horizontal Partitioning Into Automated Physical Database Design.	Year: 2004	Citation: 523	Citation per year: 27.526315789473685
+Paper: Fast Computation of Database Operations using Graphics Processors.	Year: 2004	Citation: 509	Citation per year: 26.789473684210527
+Paper: iMAP: Discovering Complex Mappings between Database Schemas.	Year: 2004	Citation: 597	Citation per year: 31.42105263157895
+Paper: Models for Web Services Transactions.	Year: 2004	Citation: 735	Citation per year: 38.68421052631579
+Paper: SINA: Scalable Incremental Processing of Continuous Queries in Spatio-temporal Databases.	Year: 2004	Citation: 548	Citation per year: 28.842105263157894
+Paper: ORDPATHs: Insert-Friendly XML Node Labels.	Year: 2004	Citation: 608	Citation per year: 32.0
+Paper: Graph Indexing: A Frequent Structure-based Approach.	Year: 2004	Citation: 920	Citation per year: 48.421052631578945
+Paper: Proceedings of the ACM SIGMOD International Conference on Management of Data, Paris, France, June 13-18, 2004	Year: 2004	Citation: 1351	Citation per year: 71.10526315789474
+Paper: Aurora: A Data Stream Management System.	Year: 2003	Citation: 1343	Citation per year: 67.15
+Paper: Information Sharing Across Private Databases.	Year: 2003	Citation: 936	Citation per year: 46.8
+Paper: Extracting Structured Data from Web Pages.	Year: 2003	Citation: 1135	Citation per year: 56.75
+Paper: Distributed Top-K Monitoring.	Year: 2003	Citation: 615	Citation per year: 30.75
+Paper: TelegraphCQ: Continuous Dataflow Processing.	Year: 2003	Citation: 2200	Citation per year: 110.0
+Paper: Robust and Efficient Fuzzy Match for Online Data Cleaning.	Year: 2003	Citation: 670	Citation per year: 33.5
+Paper: Evaluating Probabilistic Queries over Imprecise Data.	Year: 2003	Citation: 822	Citation per year: 41.1
+Paper: Spectral Bloom Filters.	Year: 2003	Citation: 570	Citation per year: 28.5
+Paper: Gigascope: A Stream Database for Network Applications.	Year: 2003	Citation: 1060	Citation per year: 53.0
+Paper: Efficient similarity search and classification via rank aggregation.	Year: 2003	Citation: 517	Citation per year: 25.85
+Paper: XRANK: Ranked Keyword Search over XML Documents.	Year: 2003	Citation: 1225	Citation per year: 61.25
+Paper: The Design of an Acquisitional Query Processor For Sensor Networks.	Year: 2003	Citation: 1384	Citation per year: 69.2
+Paper: Adaptive Filters for Continuous Queries over Distributed Data Streams.	Year: 2003	Citation: 656	Citation per year: 32.8
+Paper: An Optimal and Progressive Algorithm for Skyline Queries.	Year: 2003	Citation: 1126	Citation per year: 56.3
+Paper: Winnowing: Local Algorithms for Document Fingerprinting.	Year: 2003	Citation: 1666	Citation per year: 83.3
+Paper: Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, San Diego, California, USA, June 9-12, 2003	Year: 2003	Citation: 1221	Citation per year: 61.05
+Paper: Holistic twig joins: optimal XML pattern matching.	Year: 2002	Citation: 1429	Citation per year: 68.04761904761905
+Paper: Accelerating XPath location steps.	Year: 2002	Citation: 678	Citation per year: 32.285714285714285
+Paper: Executing SQL over encrypted data in the database-service-provider model.	Year: 2002	Citation: 1942	Citation per year: 92.47619047619048
+Paper: Continuously adaptive continuous queries over streams.	Year: 2002	Citation: 930	Citation per year: 44.285714285714285
+Paper: A Monte Carlo algorithm for fast projective clustering.	Year: 2002	Citation: 506	Citation per year: 24.095238095238095
+Paper: Storing and querying ordered XML using a relational database system.	Year: 2002	Citation: 1341	Citation per year: 63.857142857142854
+Paper: Clustering by pattern similarity in large data sets.	Year: 2002	Citation: 730	Citation per year: 34.76190476190476
+Paper: Outlier Detection for High Dimensional Data.	Year: 2001	Citation: 1681	Citation per year: 76.4090909090909
+Paper: Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach.	Year: 2001	Citation: 1146	Citation per year: 52.09090909090909
+Paper: Filtering Algorithms and Implementation for Very Fast Publish/Subscribe.	Year: 2001	Citation: 736	Citation per year: 33.45454545454545
+Paper: Space-Efficient Online Computation of Quantile Summaries.	Year: 2001	Citation: 698	Citation per year: 31.727272727272727
+Paper: Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases.	Year: 2001	Citation: 1181	Citation per year: 53.68181818181818
+Paper: On Supporting Containment Queries in Relational Database Management Systems.	Year: 2001	Citation: 1328	Citation per year: 60.36363636363637
+Paper: Finding Generalized Projected Clusters In High Dimensional Spaces.	Year: 2000	Citation: 871	Citation per year: 37.869565217391305
+Paper: Privacy-Preserving Data Mining.	Year: 2000	Citation: 4681	Citation per year: 203.52173913043478
+Paper: Tutorial: Data Access.	Year: 2000	Citation: 794	Citation per year: 34.52173913043478
+Paper: LOF: Identifying Density-Based Local Outliers.	Year: 2000	Citation: 8217	Citation per year: 357.2608695652174
+Paper: NiagaraCQ: A Scalable Continuous Query System for Internet Databases.	Year: 2000	Citation: 1765	Citation per year: 76.73913043478261
+Paper: Synchronizing a Database to Improve Freshness.	Year: 2000	Citation: 617	Citation per year: 26.82608695652174
+Paper: A Data Model and Data Structures for Moving Objects Databases.	Year: 2000	Citation: 615	Citation per year: 26.73913043478261
+Paper: Mining Frequent Patterns without Candidate Generation.	Year: 2000	Citation: 10096	Citation per year: 438.95652173913044
+Paper: Eddies: Continuously Adaptive Query Processing	Year: 2000	Citation: 1299	Citation per year: 56.47826086956522
+Paper: Influence Sets Based on Reverse Nearest Neighbor Queries.	Year: 2000	Citation: 766	Citation per year: 33.30434782608695
+Paper: XMILL: An Efficient Compressor for XML Data.	Year: 2000	Citation: 813	Citation per year: 35.34782608695652
+Paper: Efficient Algorithms for Mining Outliers from Large Data Sets.	Year: 2000	Citation: 2933	Citation per year: 127.52173913043478
+Paper: Making B+-Trees Cache Conscious in Main Memory.	Year: 2000	Citation: 678	Citation per year: 29.47826086956522
+Paper: Efficient and Extensible Algorithms for Multi Query Optimization.	Year: 2000	Citation: 671	Citation per year: 29.17391304347826
+Paper: Indexing the Positions of Continuously Moving Objects.	Year: 2000	Citation: 1465	Citation per year: 63.69565217391305

@@ -3,7 +3,9 @@ Return papers that has at least min(cite_per_year * years, max_citation_threshol
 
 Example usage:
 
-python3 print_high_impact_papers.py --citation_json_path 'citation_json/OSDI.json' --cite_per_year 30 --max_citation_threshold 500
+python3 print_high_impact_papers.py --citation_json_path 'citation_json/OSDI.json' --cite_per_year 30 --max_citation_threshold 500 > high_impact_papers/OSDI_high_impact_papers
+python3 print_high_impact_papers.py --citation_json_path 'citation_json/SOSP.json' --cite_per_year 30 --max_citation_threshold 500 > high_impact_papers/SOSP_high_impact_papers
+python3 print_high_impact_papers.py --citation_json_path 'citation_json/SIGMOD.json' --cite_per_year 30 --max_citation_threshold 500 > high_impact_papers/SIGMOD_high_impact_papers
 
 Input json format:
 {

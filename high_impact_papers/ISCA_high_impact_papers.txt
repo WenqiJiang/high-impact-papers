@@ -1,0 +1,116 @@
+Paper: Ten Lessons From Three Generations Shaped Google&apos;s TPUv4i : Industrial Product.	Year: 2021	Citation: 100	Citation per year: 50.0
+Paper: Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product.	Year: 2021	Citation: 63	Citation per year: 31.5
+Paper: DeepRecSys: A System for Optimizing End-To-End At-Scale Neural Recommendation Inference.	Year: 2020	Citation: 106	Citation per year: 35.333333333333336
+Paper: RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing.	Year: 2020	Citation: 119	Citation per year: 39.666666666666664
+Paper: Accel-Sim: An Extensible Simulation Framework for Validated GPU Modeling.	Year: 2020	Citation: 109	Citation per year: 36.333333333333336
+Paper: Revisiting RowHammer: An Experimental Analysis of Modern DRAM Devices and Mitigation Techniques.	Year: 2020	Citation: 92	Citation per year: 30.666666666666668
+Paper: MLPerf Inference Benchmark.	Year: 2020	Citation: 278	Citation per year: 92.66666666666667
+Paper: FloatPIM: in-memory acceleration of deep neural network training with high precision.	Year: 2019	Citation: 170	Citation per year: 42.5
+Paper: Full-stack, real-system quantum computer studies: architectural comparisons and design insights.	Year: 2019	Citation: 136	Citation per year: 34.0
+Paper: Sparse ReRAM engine: joint exploration of activation and weight sparsity in compressed neural networks.	Year: 2019	Citation: 123	Citation per year: 30.75
+Paper: SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.	Year: 2018	Citation: 161	Citation per year: 32.2
+Paper: Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.	Year: 2018	Citation: 316	Citation per year: 63.2
+Paper: A Configurable Cloud-Scale DNN Processor for Real-Time AI.	Year: 2018	Citation: 505	Citation per year: 101.0
+Paper: UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.	Year: 2018	Citation: 208	Citation per year: 41.6
+Paper: Gist: Efficient Data Encoding for Deep Neural Network Training.	Year: 2018	Citation: 152	Citation per year: 30.4
+Paper: FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud.	Year: 2018	Citation: 178	Citation per year: 35.6
+Paper: Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network.	Year: 2018	Citation: 440	Citation per year: 88.0
+Paper: MCM-GPU: Multi-Chip-Module GPUs for Continued Performance Scalability.	Year: 2017	Citation: 192	Citation per year: 32.0
+Paper: In-Datacenter Performance Analysis of a Tensor Processing Unit.	Year: 2017	Citation: 4060	Citation per year: 676.6666666666666
+Paper: SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.	Year: 2017	Citation: 1059	Citation per year: 176.5
+Paper: Plasticine: A Reconfigurable Architecture For Parallel Paterns.	Year: 2017	Citation: 214	Citation per year: 35.666666666666664
+Paper: Maximizing CNN Accelerator Efficiency Through Resource Partitioning.	Year: 2017	Citation: 333	Citation per year: 55.5
+Paper: ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.	Year: 2017	Citation: 232	Citation per year: 38.666666666666664
+Paper: Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.	Year: 2017	Citation: 394	Citation per year: 65.66666666666667
+Paper: Proceedings of the 44th Annual International Symposium on Computer Architecture, ISCA 2017, Toronto, ON, Canada, June 24-28, 2017	Year: 2017	Citation: 4060	Citation per year: 676.6666666666666
+Paper: Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.	Year: 2016	Citation: 762	Citation per year: 108.85714285714286
+Paper: Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.	Year: 2016	Citation: 1495	Citation per year: 213.57142857142858
+Paper: PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.	Year: 2016	Citation: 1376	Citation per year: 196.57142857142858
+Paper: Biscuit: A Framework for Near-Data Processing of Big Data Workloads.	Year: 2016	Citation: 279	Citation per year: 39.857142857142854
+Paper: EIE: Efficient Inference Engine on Compressed Deep Neural Network.	Year: 2016	Citation: 2612	Citation per year: 373.14285714285717
+Paper: Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.	Year: 2016	Citation: 265	Citation per year: 37.857142857142854
+Paper: Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.	Year: 2016	Citation: 432	Citation per year: 61.714285714285715
+Paper: RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision.	Year: 2016	Citation: 225	Citation per year: 32.142857142857146
+Paper: Cambricon: An Instruction Set Architecture for Neural Networks.	Year: 2016	Citation: 369	Citation per year: 52.714285714285715
+Paper: Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.	Year: 2016	Citation: 637	Citation per year: 91.0
+Paper: ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.	Year: 2016	Citation: 1599	Citation per year: 228.42857142857142
+Paper: A scalable processing-in-memory accelerator for parallel graph processing.	Year: 2015	Citation: 857	Citation per year: 107.125
+Paper: PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture.	Year: 2015	Citation: 522	Citation per year: 65.25
+Paper: ShiDianNao: shifting vision processing closer to the sensor.	Year: 2015	Citation: 1044	Citation per year: 130.5
+Paper: Profiling a warehouse-scale computer.	Year: 2015	Citation: 430	Citation per year: 53.75
+Paper: Heracles: improving resource efficiency at scale.	Year: 2015	Citation: 533	Citation per year: 66.625
+Paper: Proceedings of the 42nd Annual International Symposium on Computer Architecture, Portland, OR, USA, June 13-17, 2015	Year: 2015	Citation: 1044	Citation per year: 130.5
+Paper: Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors.	Year: 2014	Citation: 1145	Citation per year: 127.22222222222223
+Paper: Towards energy proportionality for large-scale latency-critical workloads.	Year: 2014	Citation: 348	Citation per year: 38.666666666666664
+Paper: Memory persistency.	Year: 2014	Citation: 393	Citation per year: 43.666666666666664
+Paper: A reconfigurable fabric for accelerating large-scale datacenter services.	Year: 2014	Citation: 1372	Citation per year: 152.44444444444446
+Paper: Aladdin: A pre-RTL, power-performance accelerator simulator enabling large design space exploration of customized architectures.	Year: 2014	Citation: 336	Citation per year: 37.333333333333336
+Paper: The CHERI capability model: Revisiting RISC in an age of risk.	Year: 2014	Citation: 310	Citation per year: 34.44444444444444
+Paper: Cooperative Caching for Chip Multiprocessors.	Year: 2006	Citation: 573	Citation per year: 33.705882352941174
+Paper: Techniques for Multicore Thermal Management: Classification and New Exploration.	Year: 2006	Citation: 678	Citation per year: 39.88235294117647
+Paper: Design and Management of 3D Chip Multiprocessors Using Network-in-Memory.	Year: 2006	Citation: 546	Citation per year: 32.11764705882353
+Paper: Ensemble-level Power Management for Dense Blade Servers.	Year: 2006	Citation: 502	Citation per year: 29.529411764705884
+Paper: Interconnections in Multi-Core Architectures: Understanding Mechanisms, Overheads and Scaling.	Year: 2005	Citation: 642	Citation per year: 35.666666666666664
+Paper: Virtualizing Transactional Memory.	Year: 2005	Citation: 575	Citation per year: 31.944444444444443
+Paper: Transactional Memory Coherence and Consistency.	Year: 2004	Citation: 1024	Citation per year: 53.89473684210526
+Paper: Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance.	Year: 2004	Citation: 853	Citation per year: 44.89473684210526
+Paper: Low-Latency Virtual-Channel Routers for On-Chip Networks.	Year: 2004	Citation: 660	Citation per year: 34.73684210526316
+Paper: The Case for Lifetime Reliability-Aware Microprocessors.	Year: 2004	Citation: 556	Citation per year: 29.263157894736842
+Paper: Evaluation of the Raw Microprocessor: An Exposed-Wire-Delay Architecture for ILP and Streams.	Year: 2004	Citation: 635	Citation per year: 33.421052631578945
+Paper: DRPM: Dynamic Speed Control for Power Mangagement in Server Class Disks.	Year: 2003	Citation: 547	Citation per year: 27.35
+Paper: Exploiting ILP, TLP and DLP with the Polymorphous TRIPS Architecture.	Year: 2003	Citation: 729	Citation per year: 36.45
+Paper: Phase Tracking and Prediction.	Year: 2003	Citation: 658	Citation per year: 32.9
+Paper: Temperature-Aware Microarchitecture.	Year: 2003	Citation: 1635	Citation per year: 81.75
+Paper: SMARTS: Accelerating Microarchitecture Simulation via Rigorous Statistical Sampling.	Year: 2003	Citation: 771	Citation per year: 38.55
+Paper: Drowsy Caches: Simple Techniques for Reducing Leakage Power.	Year: 2002	Citation: 1215	Citation per year: 57.857142857142854
+Paper: Detailed Design and Evaluation of Redundant Multithreading Alternatives.	Year: 2002	Citation: 700	Citation per year: 33.333333333333336
+Paper: NanoFabrics: spatial computing using molecular electronics.	Year: 2001	Citation: 513	Citation per year: 23.318181818181817
+Paper: Cache decay: exploiting generational behavior to reduce cache leakage power.	Year: 2001	Citation: 1006	Citation per year: 45.72727272727273
+Paper: Clock rate versus IPC: the end of the road for conventional microarchitectures.	Year: 2000	Citation: 989	Citation per year: 43.0
+Paper: Piranha: a scalable architecture based on single-chip multiprocessing.	Year: 2000	Citation: 772	Citation per year: 33.56521739130435
+Paper: Wattch: a framework for architectural-level power analysis and optimizations.	Year: 2000	Citation: 3831	Citation per year: 166.56521739130434
+Paper: Smart Memories: a modular reconfigurable architecture.	Year: 2000	Citation: 580	Citation per year: 25.217391304347824
+Paper: Transient fault detection via simultaneous multithreading.	Year: 2000	Citation: 870	Citation per year: 37.82608695652174
+Paper: Memory access scheduling.	Year: 2000	Citation: 1297	Citation per year: 56.391304347826086
+Paper: A scalable approach to thread-level speculation.	Year: 2000	Citation: 524	Citation per year: 22.782608695652176
+Paper: Efficient virtual memory for big memory servers.	Year: 2013	Citation: 364	Citation per year: 36.4
+Paper: On the feasibility of online malware detection with performance counters.	Year: 2013	Citation: 485	Citation per year: 48.5
+Paper: GPUWattch: enabling energy optimizations in GPGPUs.	Year: 2013	Citation: 693	Citation per year: 69.3
+Paper: An experimental study of data retention behavior in modern DRAM devices: implications for retention time profiling mechanisms.	Year: 2013	Citation: 359	Citation per year: 35.9
+Paper: Convolution engine: balancing efficiency &amp; flexibility in specialized computing.	Year: 2013	Citation: 302	Citation per year: 30.2
+Paper: ZSim: fast and accurate microarchitectural simulation of thousand-core systems.	Year: 2013	Citation: 612	Citation per year: 61.2
+Paper: Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers.	Year: 2013	Citation: 425	Citation per year: 42.5
+Paper: Scheduling heterogeneous multi-cores through performance impact estimation (PIE).	Year: 2012	Citation: 423	Citation per year: 38.45454545454545
+Paper: A case for exploiting subarray-level parallelism (SALP) in DRAM.	Year: 2012	Citation: 411	Citation per year: 37.36363636363637
+Paper: RAIDR: Retention-aware intelligent DRAM refresh.	Year: 2012	Citation: 612	Citation per year: 55.63636363636363
+Paper: Towards energy-proportional datacenter memory with mobile DRAM.	Year: 2012	Citation: 335	Citation per year: 30.454545454545453
+Paper: Dark silicon and the end of multicore scaling.	Year: 2011	Citation: 2371	Citation per year: 197.58333333333334
+Paper: Power management of online data-intensive services.	Year: 2011	Citation: 549	Citation per year: 45.75
+Paper: Energy proportional datacenter networks.	Year: 2010	Citation: 603	Citation per year: 46.38461538461539
+Paper: A dynamically configurable coprocessor for convolutional neural networks.	Year: 2010	Citation: 479	Citation per year: 36.84615384615385
+Paper: Understanding sources of inefficiency in general-purpose chips.	Year: 2010	Citation: 605	Citation per year: 46.53846153846154
+Paper: An integrated GPU power and performance model.	Year: 2010	Citation: 675	Citation per year: 51.92307692307692
+Paper: High performance cache replacement using re-reference interval prediction (RRIP).	Year: 2010	Citation: 882	Citation per year: 67.84615384615384
+Paper: Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU.	Year: 2010	Citation: 1160	Citation per year: 89.23076923076923
+Paper: Use ECP, not ECC, for hard failures in resistive memories.	Year: 2010	Citation: 466	Citation per year: 35.84615384615385
+Paper: Reactive NUCA: near-optimal block placement and replication in distributed caches.	Year: 2009	Citation: 540	Citation per year: 38.57142857142857
+Paper: An analytical model for a GPU architecture with memory-level and thread-level parallelism awareness.	Year: 2009	Citation: 855	Citation per year: 61.07142857142857
+Paper: Architecting phase change memory as a scalable dram alternative.	Year: 2009	Citation: 1789	Citation per year: 127.78571428571429
+Paper: Disaggregated memory for expansion and sharing in blade servers.	Year: 2009	Citation: 485	Citation per year: 34.642857142857146
+Paper: A case for bufferless routing in on-chip networks.	Year: 2009	Citation: 538	Citation per year: 38.42857142857143
+Paper: Firefly: illuminating future network-on-chip with nanophotonics.	Year: 2009	Citation: 519	Citation per year: 37.07142857142857
+Paper: Scalable high performance main memory system using phase-change memory technology.	Year: 2009	Citation: 1754	Citation per year: 125.28571428571429
+Paper: Hybrid cache architecture with disparate memory technologies.	Year: 2009	Citation: 471	Citation per year: 33.642857142857146
+Paper: A durable and energy efficient main memory using phase change memory technology.	Year: 2009	Citation: 1166	Citation per year: 83.28571428571429
+Paper: 36th International Symposium on Computer Architecture (ISCA 2009), June 20-24, 2009, Austin, TX, USA	Year: 2009	Citation: 519	Citation per year: 37.07142857142857
+Paper: Self-Optimizing Memory Controllers: A Reinforcement Learning Approach.	Year: 2008	Citation: 588	Citation per year: 39.2
+Paper: Technology-Driven, Highly-Scalable Dragonfly Topology.	Year: 2008	Citation: 938	Citation per year: 62.53333333333333
+Paper: 3D-Stacked Memory Architectures for Multi-core Processors.	Year: 2008	Citation: 906	Citation per year: 60.4
+Paper: Parallelism-Aware Batch Scheduling: Enhancing both Performance and Fairness of Shared DRAM Systems.	Year: 2008	Citation: 716	Citation per year: 47.733333333333334
+Paper: Corona: System Implications of Emerging Nanophotonic Technology.	Year: 2008	Citation: 867	Citation per year: 57.8
+Paper: Power provisioning for a warehouse-sized computer.	Year: 2007	Citation: 2603	Citation per year: 162.6875
+Paper: Flattened butterfly: a cost-efficient topology for high-radix networks.	Year: 2007	Citation: 611	Citation per year: 38.1875
+Paper: Express virtual channels: towards the ideal interconnection fabric.	Year: 2007	Citation: 532	Citation per year: 33.25
+Paper: Adaptive insertion policies for high performance caching.	Year: 2007	Citation: 925	Citation per year: 57.8125
+Paper: Anton, a special-purpose machine for molecular dynamics simulation.	Year: 2007	Citation: 905	Citation per year: 56.5625
+Paper: New cache designs for thwarting software cache-based side channel attacks.	Year: 2007	Citation: 718	Citation per year: 44.875

@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/isca/isca2001.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"668.95"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"39097696",
+"text":":facetid:toc:db/conf/isca/isca2001.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5747070",
+"info":{"authors":{"author":[{"@pid":"02/5812","text":"Murali Annavaram"},{"@pid":"p/JMPatel","text":"Jignesh M. Patel"},{"@pid":"d/ESDavidson","text":"Edward S. Davidson"}]},"title":"Data prefetching by dependence graph precomputation.","venue":"ISCA","pages":"52-61","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/AnnavaramPD01","doi":"10.1145/379240.379251","ee":"https://doi.org/10.1145/379240.379251","url":"https://dblp.org/rec/conf/isca/AnnavaramPD01"},
+"url":"URL#5747070"
+},
+{
+"@score":"1",
+"@id":"5747071",
+"info":{"authors":{"author":[{"@pid":"68/3828","text":"R. Iris Bahar"},{"@pid":"87/5027","text":"Srilatha Manne"}]},"title":"Power and energy reduction via pipeline balancing.","venue":"ISCA","pages":"218-229","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/BaharM01","doi":"10.1145/379240.379265","ee":"https://doi.org/10.1145/379240.379265","url":"https://dblp.org/rec/conf/isca/BaharM01"},
+"url":"URL#5747071"
+},
+{
+"@score":"1",
+"@id":"5747072",
+"info":{"authors":{"author":[{"@pid":"20/6518","text":"Rajeev Balasubramonian"},{"@pid":"62/1421","text":"Sandhya Dwarkadas"},{"@pid":"44/1649","text":"David H. Albonesi"}]},"title":"Dynamically allocating processor resources between nearby and distant ILP.","venue":"ISCA","pages":"26-37","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/BalasubramonianDA01","doi":"10.1145/379240.379249","ee":"https://doi.org/10.1145/379240.379249","url":"https://dblp.org/rec/conf/isca/BalasubramonianDA01"},
+"url":"URL#5747072"
+},
+{
+"@score":"1",
+"@id":"5747073",
+"info":{"authors":{"author":[{"@pid":"82/4748","text":"Jamison D. Collins"},{"@pid":"w/HongWang3","text":"Hong Wang 0003"},{"@pid":"t/DeanMTullsen","text":"Dean M. Tullsen"},{"@pid":"43/3660","text":"Christopher J. Hughes"},{"@pid":"05/3822","text":"Yong-Fong Lee"},{"@pid":"73/4160","text":"Daniel M. Lavery"},{"@pid":"99/1477","text":"John Paul Shen"}]},"title":"Speculative precomputation: long-range prefetching of delinquent loads.","venue":"ISCA","pages":"14-25","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/CollinsWTHLLS01","doi":"10.1145/379240.379248","ee":"https://doi.org/10.1145/379240.379248","url":"https://dblp.org/rec/conf/isca/CollinsWTHLLS01"},
+"url":"URL#5747073"
+},
+{
+"@score":"1",
+"@id":"5747074",
+"info":{"authors":{"author":[{"@pid":"31/3907","text":"Vinodh Cuppu"},{"@pid":"94/4067","text":"Bruce L. Jacob"}]},"title":"Concurrency, latency, or system overhead: which has the largest impact on uniprocessor DRAM-system performance?.","venue":"ISCA","pages":"62-71","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/CuppuJ01","doi":"10.1145/379240.379252","ee":"https://doi.org/10.1145/379240.379252","url":"https://dblp.org/rec/conf/isca/CuppuJ01"},
+"url":"URL#5747074"
+},
+{
+"@score":"1",
+"@id":"5747075",
+"info":{"authors":{"author":[{"@pid":"67/5074","text":"Rajagopalan Desikan"},{"@pid":"b/DougBurger","text":"Doug Burger"},{"@pid":"k/StephenWKeckler","text":"Stephen W. Keckler"}]},"title":"Measuring Experimental Error in Microprocessor Simulation.","venue":"ISCA","pages":"266-277","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/DesikanB01","doi":"10.1145/379240.565338","ee":"https://doi.org/10.1145/379240.565338","url":"https://dblp.org/rec/conf/isca/DesikanB01"},
+"url":"URL#5747075"
+},
+{
+"@score":"1",
+"@id":"5747076",
+"info":{"authors":{"author":[{"@pid":"25/1767","text":"Brian A. Fields"},{"@pid":"56/2595","text":"Shai Rubin"},{"@pid":"20/1858","text":"Rastislav Bodík"}]},"title":"Focusing processor policies via critical-path prediction.","venue":"ISCA","pages":"74-85","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/FieldsRB01","doi":"10.1145/379240.379253","ee":"https://doi.org/10.1145/379240.379253","url":"https://dblp.org/rec/conf/isca/FieldsRB01"},
+"url":"URL#5747076"
+},
+{
+"@score":"1",
+"@id":"5747077",
+"info":{"authors":{"author":[{"@pid":"76/5692","text":"Daniele Folegnani"},{"@pid":"g/AntonioGonzalez1","text":"Antonio González 0001"}]},"title":"Energy-effective issue logic.","venue":"ISCA","pages":"230-239","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/FolegnaniG01","doi":"10.1145/379240.379266","ee":"https://doi.org/10.1145/379240.379266","url":"https://dblp.org/rec/conf/isca/FolegnaniG01"},
+"url":"URL#5747077"
+},
+{
+"@score":"1",
+"@id":"5747078",
+"info":{"authors":{"author":[{"@pid":"g/SCGoldstein","text":"Seth Copen Goldstein"},{"@pid":"b/MihaiBudiu","text":"Mihai Budiu"}]},"title":"NanoFabrics: spatial computing using molecular electronics.","venue":"ISCA","pages":"178-191","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GoldsteinB01","doi":"10.1145/379240.379262","ee":"https://doi.org/10.1145/379240.379262","url":"https://dblp.org/rec/conf/isca/GoldsteinB01"},
+"url":"URL#5747078"
+},
+{
+"@score":"1",
+"@id":"5747079",
+"info":{"authors":{"author":[{"@pid":"43/3660","text":"Christopher J. Hughes"},{"@pid":"94/4136","text":"Praful Kaul"},{"@pid":"97/4181","text":"Sarita V. Adve"},{"@pid":"26/5626","text":"Rohit Jain"},{"@pid":"85/3158","text":"Chanik Park"},{"@pid":"74/3338","text":"Jayanth Srinivasan"}]},"title":"Variability in the execution of multimedia applications and implications for architecture.","venue":"ISCA","pages":"254-265","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/HughesKAJPS01","doi":"10.1145/379240.379270","ee":"https://doi.org/10.1145/379240.379270","url":"https://dblp.org/rec/conf/isca/HughesKAJPS01"},
+"url":"URL#5747079"
+},
+{
+"@score":"1",
+"@id":"5747080",
+"info":{"authors":{"author":[{"@pid":"k/StefanosKaxiras","text":"Stefanos Kaxiras"},{"@pid":"11/6486","text":"Zhigang Hu"},{"@pid":"m/MargaretMartonosi","text":"Margaret Martonosi"}]},"title":"Cache decay: exploiting generational behavior to reduce cache leakage power.","venue":"ISCA","pages":"240-251","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/KaxirasHM01","doi":"10.1145/379240.379268","ee":"https://doi.org/10.1145/379240.379268","url":"https://dblp.org/rec/conf/isca/KaxirasHM01"},
+"url":"URL#5747080"
+},
+{
+"@score":"1",
+"@id":"5747081",
+"info":{"authors":{"author":[{"@pid":"69/6971","text":"An-Chow Lai"},{"@pid":"05/6501","text":"Cem Fide"},{"@pid":"f/BabakFalsafi","text":"Babak Falsafi"}]},"title":"Dead-block prediction &amp; dead-block correlating prefetchers.","venue":"ISCA","pages":"144-154","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/LaiFF01","doi":"10.1145/379240.379259","ee":"https://doi.org/10.1145/379240.379259","url":"https://dblp.org/rec/conf/isca/LaiFF01"},
+"url":"URL#5747081"
+},
+{
+"@score":"1",
+"@id":"5747082",
+"info":{"authors":{"author":[{"@pid":"l/DavidLie","text":"David Lie"},{"@pid":"53/3446","text":"Andy Chou"},{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"d/DavidLDill","text":"David L. Dill"}]},"title":"A simple method for extracting models for protocol code.","venue":"ISCA","pages":"192-203","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/LieCED01","doi":"10.1145/379240.379263","ee":"https://doi.org/10.1145/379240.379263","url":"https://dblp.org/rec/conf/isca/LieCED01"},
+"url":"URL#5747082"
+},
+{
+"@score":"1",
+"@id":"5747083",
+"info":{"authors":{"author":{"@pid":"90/778","text":"Chi-Keung Luk"}},"title":"Tolerating memory latency through software-controlled pre-execution in simultaneous multithreading processors.","venue":"ISCA","pages":"40-51","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/Luk01","doi":"10.1145/379240.379250","ee":"https://doi.org/10.1145/379240.379250","url":"https://dblp.org/rec/conf/isca/Luk01"},
+"url":"URL#5747083"
+},
+{
+"@score":"1",
+"@id":"5747084",
+"info":{"authors":{"author":[{"@pid":"62/3778","text":"Michael T. Niemier"},{"@pid":"30/6540","text":"Peter M. Kogge"}]},"title":"Exploring and exploiting wire-level pipelining in emerging technologies.","venue":"ISCA","pages":"166-177","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/NiemierK01","doi":"10.1145/379240.379261","ee":"https://doi.org/10.1145/379240.379261","url":"https://dblp.org/rec/conf/isca/NiemierK01"},
+"url":"URL#5747084"
+},
+{
+"@score":"1",
+"@id":"5747085",
+"info":{"authors":{"author":[{"@pid":"77/4185","text":"Milos Prvulovic"},{"@pid":"95/6451","text":"María Jesús Garzarán"},{"@pid":"r/LawrenceRauchwerger","text":"Lawrence Rauchwerger"},{"@pid":"t/JosepTorrellas","text":"Josep Torrellas"}]},"title":"Removing architectural bottlenecks to the scalability of speculative parallelization.","venue":"ISCA","pages":"204-215","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/PrvulovicGRT01","doi":"10.1145/379240.379264","ee":"https://doi.org/10.1145/379240.379264","url":"https://dblp.org/rec/conf/isca/PrvulovicGRT01"},
+"url":"URL#5747085"
+},
+{
+"@score":"1",
+"@id":"5747086",
+"info":{"authors":{"author":[{"@pid":"39/2928","text":"Alex Ramírez"},{"@pid":"b/LuizAndreBarroso","text":"Luiz André Barroso"},{"@pid":"79/3674","text":"Kourosh Gharachorloo"},{"@pid":"c/RobertSCohn","text":"Robert S. Cohn"},{"@pid":"03/5767","text":"Josep Lluís Larriba-Pey"},{"@pid":"07/3011","text":"P. Geoffrey Lowney"},{"@pid":"v/MateoValero","text":"Mateo Valero"}]},"title":"Code layout optimizations for transaction processing workloads.","venue":"ISCA","pages":"155-164","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/RamirezBGCLLV01","doi":"10.1145/379240.379260","ee":"https://doi.org/10.1145/379240.379260","url":"https://dblp.org/rec/conf/isca/RamirezBGCLLV01"},
+"url":"URL#5747086"
+},
+{
+"@score":"1",
+"@id":"5747087",
+"info":{"authors":{"author":[{"@pid":"04/2904","text":"S. Subramanya Sastry"},{"@pid":"20/1858","text":"Rastislav Bodík"},{"@pid":"17/1987","text":"James E. Smith"}]},"title":"Rapid profiling via stratified sampling.","venue":"ISCA","pages":"278-289","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SastryBS01","doi":"10.1145/379240.379273","ee":"https://doi.org/10.1145/379240.379273","url":"https://dblp.org/rec/conf/isca/SastryBS01"},
+"url":"URL#5747087"
+},
+{
+"@score":"1",
+"@id":"5747088",
+"info":{"authors":{"author":[{"@pid":"23/3778","text":"Timothy Sherwood"},{"@pid":"c/BradCalder","text":"Brad Calder"}]},"title":"Automated design of finite state machine predictors for customized processors.","venue":"ISCA","pages":"86-97","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SherwoodC01","doi":"10.1145/379240.379254","ee":"https://doi.org/10.1145/379240.379254","url":"https://dblp.org/rec/conf/isca/SherwoodC01"},
+"url":"URL#5747088"
+},
+{
+"@score":"1",
+"@id":"5747089",
+"info":{"authors":{"author":[{"@pid":"21/4073","text":"Srikanth T. Srinivasan"},{"@pid":"j/RoyDzChingJu","text":"Roy Dz-Ching Ju"},{"@pid":"l/ARLebeck","text":"Alvin R. Lebeck"},{"@pid":"40/4137","text":"Chris Wilkerson"}]},"title":"Locality vs. criticality.","venue":"ISCA","pages":"132-143","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SrinivasanJLW01","doi":"10.1145/379240.379258","ee":"https://doi.org/10.1145/379240.379258","url":"https://dblp.org/rec/conf/isca/SrinivasanJLW01"},
+"url":"URL#5747089"
+},
+{
+"@score":"1",
+"@id":"5747090",
+"info":{"authors":{"author":[{"@pid":"14/318","text":"Youfeng Wu"},{"@pid":"02/6297","text":"Dong-yuan Chen"},{"@pid":"77/129","text":"Jesse Fang"}]},"title":"Better exploration of region-level value locality with integrated computation reuse and value prediction.","venue":"ISCA","pages":"98-108","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/WuCF01","doi":"10.1145/379240.379255","ee":"https://doi.org/10.1145/379240.379255","url":"https://dblp.org/rec/conf/isca/WuCF01"},
+"url":"URL#5747090"
+},
+{
+"@score":"1",
+"@id":"5747091",
+"info":{"authors":{"author":[{"@pid":"23/3943","text":"Lisa Wu 0001"},{"@pid":"93/5429","text":"Christopher T. Weaver"},{"@pid":"a/ToddMAustin","text":"Todd M. Austin"}]},"title":"CryptoManiac: a fast flexible architecture for secure communication.","venue":"ISCA","pages":"110-119","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/WuWA01","doi":"10.1145/379240.379256","ee":"https://doi.org/10.1145/379240.379256","url":"https://dblp.org/rec/conf/isca/WuWA01"},
+"url":"URL#5747091"
+},
+{
+"@score":"1",
+"@id":"5747092",
+"info":{"authors":{"author":[{"@pid":"72/2098","text":"Ki Hwan Yum"},{"@pid":"87/5080-1","text":"Eun Jung Kim 0001"},{"@pid":"d/ChitaRDas","text":"Chita R. Das"}]},"title":"QoS provisioning in clusters: an investigation of Router and NIC design.","venue":"ISCA","pages":"120-129","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/YumKD01","doi":"10.1145/379240.379257","ee":"https://doi.org/10.1145/379240.379257","url":"https://dblp.org/rec/conf/isca/YumKD01"},
+"url":"URL#5747092"
+},
+{
+"@score":"1",
+"@id":"5747093",
+"info":{"authors":{"author":[{"@pid":"z/CraigBZilles","text":"Craig B. Zilles"},{"@pid":"s/GurindarSSohi","text":"Gurindar S. Sohi"}]},"title":"Execution-based prediction using speculative slices.","venue":"ISCA","pages":"2-13","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/ZillesS01","doi":"10.1145/379240.379246","ee":"https://doi.org/10.1145/379240.379246","url":"https://dblp.org/rec/conf/isca/ZillesS01"},
+"url":"URL#5747093"
+},
+{
+"@score":"1",
+"@id":"5766415",
+"info":{"authors":{"author":{"@pid":"48/2905","text":"Per Stenström"}},"title":"Proceedings of the 28th Annual International Symposium on Computer Architecture, ISCA 2001, Göteborg, Sweden, June 30-July 4, 2001","venue":"ISCA","publisher":"ACM","year":"2001","type":"Editorship","key":"conf/isca/2001","doi":"10.1145/379240","ee":"https://doi.org/10.1145/379240","url":"https://dblp.org/rec/conf/isca/2001"},
+"url":"URL#5766415"
+}
+]
+}
+}
+}

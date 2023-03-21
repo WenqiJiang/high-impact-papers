@@ -5,6 +5,7 @@ python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/OSDI.json' -
 python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SOSP_2021.json' --citation_json_path 'citation_json/SOSP.json' --sleep_sec 0
 python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/SIGMOD_2022.json' --citation_json_path 'citation_json/SIGMOD.json' --sleep_sec 0
 python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/ASPLOS_2022.json' --citation_json_path 'citation_json/ASPLOS.json' --sleep_sec 0
+python3 get_paper_citation_from_json.py --dblp_json_path 'dblp_json/ISCA_2022.json' --citation_json_path 'citation_json/ISCA.json' --sleep_sec 0
 
 Out json format:
 {

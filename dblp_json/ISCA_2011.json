@@ -1,0 +1,278 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/isca/isca2011.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"547.79"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"41",
+"@dc":"41",
+"@oc":"41",
+"@id":"39097707",
+"text":":facetid:toc:db/conf/isca/isca2011.bht"
+}
+},
+"hits":{
+"@total":"41",
+"@computed":"41",
+"@sent":"41",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4090167",
+"info":{"authors":{"author":[{"@pid":"35/1040","text":"Rishi Agarwal"},{"@pid":"57/9299-1","text":"Pranav Garg 0001"},{"@pid":"t/JosepTorrellas","text":"Josep Torrellas"}]},"title":"Rebound: scalable checkpointing for coherent shared memory.","venue":"ISCA","pages":"153-164","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/AgarwalGT11","doi":"10.1145/2000064.2000083","ee":"https://doi.org/10.1145/2000064.2000083","url":"https://dblp.org/rec/conf/isca/AgarwalGT11"},
+"url":"URL#4090167"
+},
+{
+"@score":"1",
+"@id":"4090168",
+"info":{"authors":{"author":[{"@pid":"35/1040","text":"Rishi Agarwal"},{"@pid":"t/JosepTorrellas","text":"Josep Torrellas"}]},"title":"FlexBulk: intelligently forming atomic blocks in blocked-execution multiprocessors to minimize squashes.","venue":"ISCA","pages":"33-44","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/AgarwalT11","doi":"10.1145/2000064.2000070","ee":"https://doi.org/10.1145/2000064.2000070","url":"https://dblp.org/rec/conf/isca/AgarwalT11"},
+"url":"URL#4090168"
+},
+{
+"@score":"1",
+"@id":"4090169",
+"info":{"authors":{"author":[{"@pid":"77/5087","text":"Alaa R. Alameldeen"},{"@pid":"85/4054","text":"Ilya Wagner"},{"@pid":"80/4789","text":"Zeshan Chishti"},{"@pid":"95/6985-24","text":"Wei Wu 0024"},{"@pid":"40/4137","text":"Chris Wilkerson"},{"@pid":"35/5292","text":"Shih-Lien Lu"}]},"title":"Energy-efficient cache design using variable-strength error-correcting codes.","venue":"ISCA","pages":"461-472","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/AlameldeenWCWWL11","doi":"10.1145/2000064.2000118","ee":"https://doi.org/10.1145/2000064.2000118","url":"https://dblp.org/rec/conf/isca/AlameldeenWCWWL11"},
+"url":"URL#4090169"
+},
+{
+"@score":"1",
+"@id":"4090170",
+"info":{"authors":{"author":[{"@pid":"63/8277","text":"Thomas W. Barr"},{"@pid":"c/AlanLCox","text":"Alan L. Cox"},{"@pid":"44/5161","text":"Scott Rixner"}]},"title":"SpecTLB: a mechanism for speculative address translation.","venue":"ISCA","pages":"307-318","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/BarrCR11","doi":"10.1145/2000064.2000101","ee":"https://doi.org/10.1145/2000064.2000101","url":"https://dblp.org/rec/conf/isca/BarrCR11"},
+"url":"URL#4090170"
+},
+{
+"@score":"1",
+"@id":"4090171",
+"info":{"authors":{"author":[{"@pid":"12/6875","text":"Nathan L. Binkert"},{"@pid":"d/AlDavis","text":"Al Davis"},{"@pid":"j/NormanPJouppi","text":"Norman P. Jouppi"},{"@pid":"15/4035","text":"Moray McLaren"},{"@pid":"74/2786","text":"Naveen Muralimanohar"},{"@pid":"69/2277","text":"Robert Schreiber"},{"@pid":"a/JungHoAhn","text":"Jung Ho Ahn"}]},"title":"The role of optics in future high radix switch design.","venue":"ISCA","pages":"437-448","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/BinkertDJMMSA11","doi":"10.1145/2000064.2000116","ee":"https://doi.org/10.1145/2000064.2000116","url":"https://dblp.org/rec/conf/isca/BinkertDJMMSA11"},
+"url":"URL#4090171"
+},
+{
+"@score":"1",
+"@id":"4090172",
+"info":{"authors":{"author":[{"@pid":"33/6598","text":"Susmit Biswas"},{"@pid":"33/65","text":"Mohit Tiwari"},{"@pid":"23/3778","text":"Timothy Sherwood"},{"@pid":"86/8374","text":"Luke Theogarajan"},{"@pid":"c/FTChong","text":"Frederic T. Chong"}]},"title":"Fighting fire with fire: modeling the datacenter-scale effects of targeted superlattice thermal management.","venue":"ISCA","pages":"331-340","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/BiswasTSTC11","doi":"10.1145/2000064.2000104","ee":"https://doi.org/10.1145/2000064.2000104","url":"https://dblp.org/rec/conf/isca/BiswasTSTC11"},
+"url":"URL#4090172"
+},
+{
+"@score":"1",
+"@id":"4090173",
+"info":{"authors":{"author":[{"@pid":"24/9796","text":"Aaron Carpenter"},{"@pid":"01/2093","text":"Jianyun Hu"},{"@pid":"37/5126","text":"Jie Xu"},{"@pid":"40/1854","text":"Michael C. Huang 0001"},{"@pid":"17/995-7","text":"Hui Wu 0007"}]},"title":"A case for globally shared-medium on-chip interconnect.","venue":"ISCA","pages":"271-282","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/CarpenterHXHW11","doi":"10.1145/2000064.2000097","ee":"https://doi.org/10.1145/2000064.2000097","url":"https://dblp.org/rec/conf/isca/CarpenterHXHW11"},
+"url":"URL#4090173"
+},
+{
+"@score":"1",
+"@id":"4090174",
+"info":{"authors":{"author":[{"@pid":"24/3570","text":"Siddhartha Chhabra"},{"@pid":"11/2624","text":"Yan Solihin"}]},"title":"i-NVMM: a secure non-volatile main memory system with incremental encryption.","venue":"ISCA","pages":"177-188","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/ChhabraS11","doi":"10.1145/2000064.2000086","ee":"https://doi.org/10.1145/2000064.2000086","url":"https://dblp.org/rec/conf/isca/ChhabraS11"},
+"url":"URL#4090174"
+},
+{
+"@score":"1",
+"@id":"4090175",
+"info":{"authors":{"author":[{"@pid":"62/7751","text":"Niket Kumar Choudhary"},{"@pid":"18/9796","text":"Salil V. Wadhavkar"},{"@pid":"29/9796","text":"Tanmay A. Shah"},{"@pid":"19/9796","text":"Hiran Mayukh"},{"@pid":"17/9796","text":"Jayneel Gandhi"},{"@pid":"21/9796","text":"Brandon H. Dwiel"},{"@pid":"93/9117","text":"Sandeep Navada"},{"@pid":"71/5049","text":"Hashem Hashemi Najaf-abadi"},{"@pid":"87/6036","text":"Eric Rotenberg"}]},"title":"FabScalar: composing synthesizable RTL designs of arbitrary cores within a canonical superscalar template.","venue":"ISCA","pages":"11-22","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/ChoudharyWSMGDNNR11","doi":"10.1145/2000064.2000067","ee":"https://doi.org/10.1145/2000064.2000067","url":"https://dblp.org/rec/conf/isca/ChoudharyWSMGDNNR11"},
+"url":"URL#4090175"
+},
+{
+"@score":"1",
+"@id":"4090176",
+"info":{"authors":{"author":[{"@pid":"00/5672","text":"Neal Clayton Crago"},{"@pid":"05/6203","text":"Sanjay J. Patel"}]},"title":"OUTRIDER: efficient memory latency tolerance with decoupled strands.","venue":"ISCA","pages":"117-128","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/CragoP11","doi":"10.1145/2000064.2000079","ee":"https://doi.org/10.1145/2000064.2000079","url":"https://dblp.org/rec/conf/isca/CragoP11"},
+"url":"URL#4090176"
+},
+{
+"@score":"1",
+"@id":"4090177",
+"info":{"authors":{"author":[{"@pid":"84/4270","text":"Blas Cuesta"},{"@pid":"82/3556","text":"Alberto Ros"},{"@pid":"18/79","text":"María Engracia Gómez"},{"@pid":"230/9603","text":"Antonio Robles"},{"@pid":"76/2766","text":"José Duato"}]},"title":"Increasing the effectiveness of directory caches by deactivating coherence for private memory blocks.","venue":"ISCA","pages":"93-104","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/CuestaRGRD11","doi":"10.1145/2000064.2000076","ee":"https://doi.org/10.1145/2000064.2000076","url":"https://dblp.org/rec/conf/isca/CuestaRGRD11"},
+"url":"URL#4090177"
+},
+{
+"@score":"1",
+"@id":"4090178",
+"info":{"authors":{"author":[{"@pid":"31/9796","text":"John Demme"},{"@pid":"46/652","text":"Simha Sethumadhavan"}]},"title":"Rapid identification of architectural bottlenecks via precise event counting.","venue":"ISCA","pages":"353-364","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/DemmeS11","doi":"10.1145/2000064.2000107","ee":"https://doi.org/10.1145/2000064.2000107","url":"https://dblp.org/rec/conf/isca/DemmeS11"},
+"url":"URL#4090178"
+},
+{
+"@score":"1",
+"@id":"4090179",
+"info":{"authors":{"author":[{"@pid":"85/6918","text":"Eiman Ebrahimi"},{"@pid":"71/3237","text":"Chang Joo Lee"},{"@pid":"m/OnurMutlu","text":"Onur Mutlu"},{"@pid":"p/YaleNPatt","text":"Yale N. Patt"}]},"title":"Prefetch-aware shared resource management for multi-core systems.","venue":"ISCA","pages":"141-152","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/EbrahimiLMP11","doi":"10.1145/2000064.2000081","ee":"https://doi.org/10.1145/2000064.2000081","url":"https://dblp.org/rec/conf/isca/EbrahimiLMP11"},
+"url":"URL#4090179"
+},
+{
+"@score":"1",
+"@id":"4090180",
+"info":{"authors":{"author":[{"@pid":"00/809","text":"Hadi Esmaeilzadeh"},{"@pid":"79/4370","text":"Emily R. Blem"},{"@pid":"44/6944","text":"Renée St. Amant"},{"@pid":"22/858","text":"Karthikeyan Sankaralingam"},{"@pid":"b/DougBurger","text":"Doug Burger"}]},"title":"Dark silicon and the end of multicore scaling.","venue":"ISCA","pages":"365-376","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/EsmaeilzadehBASB11","doi":"10.1145/2000064.2000108","ee":"https://doi.org/10.1145/2000064.2000108","url":"https://dblp.org/rec/conf/isca/EsmaeilzadehBASB11"},
+"url":"URL#4090180"
+},
+{
+"@score":"1",
+"@id":"4090181",
+"info":{"authors":{"author":[{"@pid":"60/7673","text":"Binzhang Fu"},{"@pid":"32/2695","text":"Yinhe Han"},{"@pid":"91/4845","text":"Jun Ma"},{"@pid":"70/576","text":"Huawei Li"},{"@pid":"37/5372-1","text":"Xiaowei Li 0001"}]},"title":"An abacus turn model for time/space-efficient reconfigurable routing.","venue":"ISCA","pages":"259-270","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/FuHMLL11","doi":"10.1145/2000064.2000096","ee":"https://doi.org/10.1145/2000064.2000096","url":"https://dblp.org/rec/conf/isca/FuHMLL11"},
+"url":"URL#4090181"
+},
+{
+"@score":"1",
+"@id":"4090182",
+"info":{"authors":{"author":[{"@pid":"46/6130","text":"Jayesh Gaur"},{"@pid":"34/3071","text":"Mainak Chaudhuri"},{"@pid":"36/1380","text":"Sreenivas Subramoney"}]},"title":"Bypass and insertion algorithms for exclusive last-level caches.","venue":"ISCA","pages":"81-92","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GaurCS11","doi":"10.1145/2000064.2000075","ee":"https://doi.org/10.1145/2000064.2000075","url":"https://dblp.org/rec/conf/isca/GaurCS11"},
+"url":"URL#4090182"
+},
+{
+"@score":"1",
+"@id":"4090183",
+"info":{"authors":{"author":[{"@pid":"95/4578","text":"Mark Gebhart"},{"@pid":"69/7115","text":"Daniel R. Johnson"},{"@pid":"61/2174","text":"David Tarjan"},{"@pid":"k/StephenWKeckler","text":"Stephen W. Keckler"},{"@pid":"d/WJDally","text":"William J. Dally"},{"@pid":"33/4447","text":"Erik Lindholm"},{"@pid":"s/KevinSkadron","text":"Kevin Skadron"}]},"title":"Energy-efficient mechanisms for managing thread context in throughput processors.","venue":"ISCA","pages":"235-246","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GebhartJTKDLS11","doi":"10.1145/2000064.2000093","ee":"https://doi.org/10.1145/2000064.2000093","url":"https://dblp.org/rec/conf/isca/GebhartJTKDLS11"},
+"url":"URL#4090183"
+},
+{
+"@score":"1",
+"@id":"4090184",
+"info":{"authors":{"author":[{"@pid":"18/4286","text":"Sriram Govindan"},{"@pid":"72/3356","text":"Anand Sivasubramaniam"},{"@pid":"61/6430","text":"Bhuvan Urgaonkar"}]},"title":"Benefits and limitations of tapping into stored energy for datacenters.","venue":"ISCA","pages":"341-352","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GovindanSU11","doi":"10.1145/2000064.2000105","ee":"https://doi.org/10.1145/2000064.2000105","url":"https://dblp.org/rec/conf/isca/GovindanSU11"},
+"url":"URL#4090184"
+},
+{
+"@score":"1",
+"@id":"4090185",
+"info":{"authors":{"author":[{"@pid":"15/2001","text":"Joseph L. Greathouse"},{"@pid":"62/3653","text":"Zhiqiang Ma"},{"@pid":"10/5657","text":"Matthew I. Frank"},{"@pid":"26/3936","text":"Ramesh Peri"},{"@pid":"a/ToddMAustin","text":"Todd M. Austin"}]},"title":"Demand-driven software race detection using hardware performance counters.","venue":"ISCA","pages":"165-176","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GreathouseMFPA11","doi":"10.1145/2000064.2000084","ee":"https://doi.org/10.1145/2000064.2000084","url":"https://dblp.org/rec/conf/isca/GreathouseMFPA11"},
+"url":"URL#4090185"
+},
+{
+"@score":"1",
+"@id":"4090186",
+"info":{"authors":{"author":[{"@pid":"78/50","text":"Boris Grot"},{"@pid":"60/3063","text":"Joel Hestness"},{"@pid":"k/StephenWKeckler","text":"Stephen W. Keckler"},{"@pid":"m/OnurMutlu","text":"Onur Mutlu"}]},"title":"Kilo-NOC: a heterogeneous network-on-chip architecture for scalability and service guarantees.","venue":"ISCA","pages":"401-412","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GrotHKM11","doi":"10.1145/2000064.2000112","ee":"https://doi.org/10.1145/2000064.2000112","url":"https://dblp.org/rec/conf/isca/GrotHKM11"},
+"url":"URL#4090186"
+},
+{
+"@score":"1",
+"@id":"4090187",
+"info":{"authors":{"author":[{"@pid":"93/4603","text":"Erika Gunadi"},{"@pid":"02/1732","text":"Mikko H. Lipasti"}]},"title":"CRIB: consolidated rename, issue, and bypass.","venue":"ISCA","pages":"23-32","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/GunadiL11","doi":"10.1145/2000064.2000068","ee":"https://doi.org/10.1145/2000064.2000068","url":"https://dblp.org/rec/conf/isca/GunadiL11"},
+"url":"URL#4090187"
+},
+{
+"@score":"1",
+"@id":"4090188",
+"info":{"authors":{"author":[{"@pid":"26/3520","text":"Atif Hashmi"},{"@pid":"59/83","text":"Hugues Berry"},{"@pid":"35/1139","text":"Olivier Temam"},{"@pid":"02/1732","text":"Mikko H. Lipasti"}]},"title":"Automatic abstraction and fault tolerance in cortical microachitectures.","venue":"ISCA","pages":"1-10","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/HashmiBTL11","doi":"10.1145/2000064.2000066","ee":"https://doi.org/10.1145/2000064.2000066","url":"https://dblp.org/rec/conf/isca/HashmiBTL11"},
+"url":"URL#4090188"
+},
+{
+"@score":"1",
+"@id":"4090189",
+"info":{"authors":{"author":[{"@pid":"94/8239","text":"Youngjin Kwon"},{"@pid":"26/9796","text":"Changdae Kim"},{"@pid":"m/SeungRyoulMaeng","text":"Seungryoul Maeng"},{"@pid":"83/5240","text":"Jaehyuk Huh"}]},"title":"Virtualizing performance asymmetric multi-core systems.","venue":"ISCA","pages":"45-56","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/KwonKMH11","doi":"10.1145/2000064.2000071","ee":"https://doi.org/10.1145/2000064.2000071","url":"https://dblp.org/rec/conf/isca/KwonKMH11"},
+"url":"URL#4090189"
+},
+{
+"@score":"1",
+"@id":"4090190",
+"info":{"authors":{"author":[{"@pid":"39/7588","text":"Yunsup Lee"},{"@pid":"60/5149","text":"Rimas Avizienis"},{"@pid":"20/9796","text":"Alex Bishara"},{"@pid":"22/9796","text":"Richard Xia"},{"@pid":"23/6844","text":"Derek Lockhart"},{"@pid":"20/4601","text":"Christopher Batten"},{"@pid":"a/KrsteAsanovic","text":"Krste Asanovic"}]},"title":"Exploring the tradeoffs between programmability and efficiency in data-parallel accelerators.","venue":"ISCA","pages":"129-140","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/LeeABXLBA11","doi":"10.1145/2000064.2000080","ee":"https://doi.org/10.1145/2000064.2000080","url":"https://dblp.org/rec/conf/isca/LeeABXLBA11"},
+"url":"URL#4090190"
+},
+{
+"@score":"1",
+"@id":"4090191",
+"info":{"authors":{"author":[{"@pid":"70/972","text":"Sheng Ma"},{"@pid":"61/5482","text":"Natalie D. Enright Jerger"},{"@pid":"w/ZhiyingWang-3","text":"Zhiying Wang 0003"}]},"title":"DBAR: an efficient routing algorithm to support multiple concurrent applications in networks-on-chip.","venue":"ISCA","pages":"413-424","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/MaJW11","doi":"10.1145/2000064.2000113","ee":"https://doi.org/10.1145/2000064.2000113","url":"https://dblp.org/rec/conf/isca/MaJW11"},
+"url":"URL#4090191"
+},
+{
+"@score":"1",
+"@id":"4090192",
+"info":{"authors":{"author":[{"@pid":"86/7113","text":"Kai Ma"},{"@pid":"181/2710","text":"Xue Li"},{"@pid":"99/311-2","text":"Ming Chen 0002"},{"@pid":"18/5637","text":"Xiaorui Wang"}]},"title":"Scalable power control for many-core architectures running multi-threaded applications.","venue":"ISCA","pages":"449-460","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/MaLCW11","doi":"10.1145/2000064.2000117","ee":"https://doi.org/10.1145/2000064.2000117","url":"https://dblp.org/rec/conf/isca/MaLCW11"},
+"url":"URL#4090192"
+},
+{
+"@score":"1",
+"@id":"4090193",
+"info":{"authors":{"author":[{"@pid":"61/3750","text":"Mehrtash Manoochehri"},{"@pid":"02/5812","text":"Murali Annavaram"},{"@pid":"80/1836-1","text":"Michel Dubois 0001"}]},"title":"CPPC: correctable parity protected cache.","venue":"ISCA","pages":"223-234","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/ManoochehriAD11","doi":"10.1145/2000064.2000091","ee":"https://doi.org/10.1145/2000064.2000091","url":"https://dblp.org/rec/conf/isca/ManoochehriAD11"},
+"url":"URL#4090193"
+},
+{
+"@score":"1",
+"@id":"4090194",
+"info":{"authors":{"author":[{"@pid":"18/389","text":"David Meisner"},{"@pid":"48/3134","text":"Christopher M. Sadler"},{"@pid":"b/LuizAndreBarroso","text":"Luiz André Barroso"},{"@pid":"21/2538","text":"Wolf-Dietrich Weber"},{"@pid":"01/1282","text":"Thomas F. Wenisch"}]},"title":"Power management of online data-intensive services.","venue":"ISCA","pages":"319-330","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/MeisnerSBWW11","doi":"10.1145/2000064.2000103","ee":"https://doi.org/10.1145/2000064.2000103","url":"https://dblp.org/rec/conf/isca/MeisnerSBWW11"},
+"url":"URL#4090194"
+},
+{
+"@score":"1",
+"@id":"4090195",
+"info":{"authors":{"author":[{"@pid":"59/823","text":"Asit K. Mishra"},{"@pid":"84/3152","text":"Xiangyu Dong"},{"@pid":"29/6473-3","text":"Guangyu Sun 0003"},{"@pid":"x/YuanXie","text":"Yuan Xie 0001"},{"@pid":"v/NarayananVijaykrishnan","text":"Narayanan Vijaykrishnan"},{"@pid":"d/ChitaRDas","text":"Chita R. Das"}]},"title":"Architecting on-chip interconnects for stacked 3D STT-RAM caches in CMPs.","venue":"ISCA","pages":"69-80","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/MishraDSXVD11","doi":"10.1145/2000064.2000074","ee":"https://doi.org/10.1145/2000064.2000074","url":"https://dblp.org/rec/conf/isca/MishraDSXVD11"},
+"url":"URL#4090195"
+},
+{
+"@score":"1",
+"@id":"4090196",
+"info":{"authors":{"author":[{"@pid":"59/823","text":"Asit K. Mishra"},{"@pid":"v/NarayananVijaykrishnan","text":"Narayanan Vijaykrishnan"},{"@pid":"d/ChitaRDas","text":"Chita R. Das"}]},"title":"A case for heterogeneous on-chip interconnects for CMPs.","venue":"ISCA","pages":"389-400","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/MishraVD11","doi":"10.1145/2000064.2000111","ee":"https://doi.org/10.1145/2000064.2000111","url":"https://dblp.org/rec/conf/isca/MishraVD11"},
+"url":"URL#4090196"
+},
+{
+"@score":"1",
+"@id":"4090197",
+"info":{"authors":{"author":[{"@pid":"55/8277","text":"Shuou Nomura"},{"@pid":"27/9796","text":"Matthew D. Sinclair"},{"@pid":"54/9614","text":"Chen-Han Ho"},{"@pid":"25/1585","text":"Venkatraman Govindaraju"},{"@pid":"54/8277","text":"Marc de Kruijf"},{"@pid":"22/858","text":"Karthikeyan Sankaralingam"}]},"title":"Sampling + DMR: practical and low-overhead permanent fault detection.","venue":"ISCA","pages":"201-212","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/NomuraSHGKS11","doi":"10.1145/2000064.2000089","ee":"https://doi.org/10.1145/2000064.2000089","url":"https://dblp.org/rec/conf/isca/NomuraSHGKS11"},
+"url":"URL#4090197"
+},
+{
+"@score":"1",
+"@id":"4090198",
+"info":{"authors":{"author":[{"@pid":"16/9657","text":"Jungju Oh"},{"@pid":"77/4185","text":"Milos Prvulovic"},{"@pid":"42/4332","text":"Alenka G. Zajic"}]},"title":"TLSync: support for multiple fast barriers using on-chip transmission lines.","venue":"ISCA","pages":"105-116","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/OhPZ11","doi":"10.1145/2000064.2000078","ee":"https://doi.org/10.1145/2000064.2000078","url":"https://dblp.org/rec/conf/isca/OhPZ11"},
+"url":"URL#4090198"
+},
+{
+"@score":"1",
+"@id":"4090199",
+"info":{"authors":{"author":[{"@pid":"67/2030-3","text":"Daniel Sánchez 0003"},{"@pid":"k/ChristoforosEKozyrakis","text":"Christos Kozyrakis"}]},"title":"Vantage: scalable and efficient fine-grain cache partitioning.","venue":"ISCA","pages":"57-68","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SanchezK11","doi":"10.1145/2000064.2000073","ee":"https://doi.org/10.1145/2000064.2000073","url":"https://dblp.org/rec/conf/isca/SanchezK11"},
+"url":"URL#4090199"
+},
+{
+"@score":"1",
+"@id":"4090200",
+"info":{"authors":{"author":[{"@pid":"38/4031","text":"Sangeetha Sudhakrishnan"},{"@pid":"28/9796","text":"Rigo Dicochea"},{"@pid":"81/6097","text":"Jose Renau"}]},"title":"Releasing efficient beta cores to market early.","venue":"ISCA","pages":"213-222","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SudhakrishnanDR11","doi":"10.1145/2000064.2000090","ee":"https://doi.org/10.1145/2000064.2000090","url":"https://dblp.org/rec/conf/isca/SudhakrishnanDR11"},
+"url":"URL#4090200"
+},
+{
+"@score":"1",
+"@id":"4090201",
+"info":{"authors":{"author":[{"@pid":"29/6473-3","text":"Guangyu Sun 0003"},{"@pid":"43/3660","text":"Christopher J. Hughes"},{"@pid":"56/1846","text":"Changkyu Kim"},{"@pid":"66/8314","text":"Jishen Zhao"},{"@pid":"47/4804","text":"Cong Xu"},{"@pid":"x/YuanXie","text":"Yuan Xie 0001"},{"@pid":"44/4065","text":"Yen-Kuang Chen"}]},"title":"Moguls: a model to explore the memory hierarchy for bandwidth improvements.","venue":"ISCA","pages":"377-388","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/SunHKZXXC11","doi":"10.1145/2000064.2000109","ee":"https://doi.org/10.1145/2000064.2000109","url":"https://dblp.org/rec/conf/isca/SunHKZXXC11"},
+"url":"URL#4090201"
+},
+{
+"@score":"1",
+"@id":"4090202",
+"info":{"authors":{"author":[{"@pid":"35/1464","text":"Lingjia Tang"},{"@pid":"48/6796","text":"Jason Mars"},{"@pid":"40/1197","text":"Neil Vachharajani"},{"@pid":"38/3747","text":"Robert Hundt"},{"@pid":"s/MaryLouSoffa","text":"Mary Lou Soffa"}]},"title":"The impact of memory subsystem resource sharing on datacenter applications.","venue":"ISCA","pages":"283-294","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/TangMVHS11","doi":"10.1145/2000064.2000099","ee":"https://doi.org/10.1145/2000064.2000099","url":"https://dblp.org/rec/conf/isca/TangMVHS11"},
+"url":"URL#4090202"
+},
+{
+"@score":"1",
+"@id":"4090203",
+"info":{"authors":{"author":[{"@pid":"33/65","text":"Mohit Tiwari"},{"@pid":"62/2008","text":"Jason Oberg"},{"@pid":"32/6533-1","text":"Xun Li 0001"},{"@pid":"15/5188","text":"Jonathan Valamehr"},{"@pid":"29/754","text":"Timothy E. Levin"},{"@pid":"89/4824","text":"Ben Hardekopf"},{"@pid":"15/3231","text":"Ryan Kastner"},{"@pid":"c/FTChong","text":"Frederic T. Chong"},{"@pid":"23/3778","text":"Timothy Sherwood"}]},"title":"Crafting a usable microkernel, processor, and I/O system with strict and provable information flow security.","venue":"ISCA","pages":"189-200","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/TiwariOLVLHKCS11","doi":"10.1145/2000064.2000087","ee":"https://doi.org/10.1145/2000064.2000087","url":"https://dblp.org/rec/conf/isca/TiwariOLVLHKCS11"},
+"url":"URL#4090203"
+},
+{
+"@score":"1",
+"@id":"4090204",
+"info":{"authors":{"author":[{"@pid":"17/1260","text":"Aniruddha N. Udipi"},{"@pid":"74/2786","text":"Naveen Muralimanohar"},{"@pid":"20/6518","text":"Rajeev Balasubramonian"},{"@pid":"d/AlDavis","text":"Al Davis"},{"@pid":"j/NormanPJouppi","text":"Norman P. Jouppi"}]},"title":"Combining memory and a controller with photonics through 3D-stacking to enable scalable and energy-efficient systems.","venue":"ISCA","pages":"425-436","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/UdipiMBDJ11","doi":"10.1145/2000064.2000115","ee":"https://doi.org/10.1145/2000064.2000115","url":"https://dblp.org/rec/conf/isca/UdipiMBDJ11"},
+"url":"URL#4090204"
+},
+{
+"@score":"1",
+"@id":"4090205",
+"info":{"authors":{"author":[{"@pid":"45/7113","text":"Doe Hyun Yoon"},{"@pid":"16/9796","text":"Min Kyu Jeong"},{"@pid":"95/2048","text":"Mattan Erez"}]},"title":"Adaptive granularity memory systems: a tradeoff between storage efficiency and throughput.","venue":"ISCA","pages":"295-306","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/YoonJE11","doi":"10.1145/2000064.2000100","ee":"https://doi.org/10.1145/2000064.2000100","url":"https://dblp.org/rec/conf/isca/YoonJE11"},
+"url":"URL#4090205"
+},
+{
+"@score":"1",
+"@id":"4090206",
+"info":{"authors":{"author":[{"@pid":"38/9766","text":"Wing-Kei S. Yu"},{"@pid":"25/9796","text":"Ruirui C. Huang"},{"@pid":"30/9796","text":"Sarah Q. Xu"},{"@pid":"23/9796","text":"Sung-En Wang"},{"@pid":"40/9766","text":"Edwin Kan"},{"@pid":"09/5657","text":"G. Edward Suh"}]},"title":"SRAM-DRAM hybrid memory with applications to efficient register files in fine-grained multi-threading.","venue":"ISCA","pages":"247-258","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isca/YuHXWKS11","doi":"10.1145/2000064.2000094","ee":"https://doi.org/10.1145/2000064.2000094","url":"https://dblp.org/rec/conf/isca/YuHXWKS11"},
+"url":"URL#4090206"
+},
+{
+"@score":"1",
+"@id":"4142853",
+"info":{"authors":{"author":[{"@pid":"i/RaviRIyer","text":"Ravi R. Iyer"},{"@pid":"47/3749-1","text":"Qing Yang 0001"},{"@pid":"g/AntonioGonzalez1","text":"Antonio González 0001"}]},"title":"38th International Symposium on Computer Architecture (ISCA 2011), June 4-8, 2011, San Jose, CA, USA","venue":"ISCA","publisher":"ACM","year":"2011","type":"Editorship","key":"conf/isca/2011","doi":"10.1145/2000064","ee":"https://doi.org/10.1145/2000064","url":"https://dblp.org/rec/conf/isca/2011"},
+"url":"URL#4142853"
+}
+]
+}
+}
+}
